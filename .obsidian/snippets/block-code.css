@@ -1,0 +1,12 @@
+/* Aplica JetBrains Mono a los bloques de código en modo edición */
+.cm-s-obsidian pre, .cm-s-obsidian code {
+  font-family: 'JetBrains Mono', monospace !important;
+  font-size: 14px;
+}
+
+/* Aplica JetBrains Mono a los bloques de código en modo vista previa */
+.markdown-preview-view pre, .markdown-preview-view code {
+  font-family: 'JetBrains Mono', monospace !important;
+  font-size: 14px;
+}
+

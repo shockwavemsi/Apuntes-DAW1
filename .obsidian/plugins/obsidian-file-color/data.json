@@ -1,0 +1,26 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "xP8opnFkR-8N1YVe5kVbE",
+      "name": "Sistemas",
+      "value": "#00ffd5"
+    },
+    {
+      "id": "4_b8ihcDLjnp92aBbcLSp",
+      "name": "Bases de Datos",
+      "value": "#00e1ff"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "02 - Sistemas Informáticos",
+      "color": "xP8opnFkR-8N1YVe5kVbE"
+    },
+    {
+      "path": "01 - Bases de datos",
+      "color": "4_b8ihcDLjnp92aBbcLSp"
+    }
+  ]
+}

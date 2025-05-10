@@ -1,0 +1,16 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "AnuPpuccin",
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "block-code"
+  ],
+  "nativeMenus": false,
+  "textFontFamily": "JetBrains Mono NL",
+  "showRibbon": false,
+  "showViewHeader": false,
+  "baseFontSizeAction": false,
+  "baseFontSize": 16,
+  "interfaceFontFamily": "JetBrains Mono",
+  "monospaceFontFamily": "JetBrains Mono "
+}

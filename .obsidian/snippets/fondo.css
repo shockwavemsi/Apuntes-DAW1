@@ -1,0 +1,15 @@
+/* Cambiar el color del texto en todos los elementos <p> a blanco */
+p {
+    color: #ffffff !important;
+}
+
+/* Cambiar el color del texto en listas desordenadas (<ul>) a blanco */
+ul {
+    color: #ffffff !important;
+}
+
+/* Cambiar el color del texto en listas ordenadas (<ol>) a blanco */
+ol {
+    color: #ffffff !important;
+}
+
