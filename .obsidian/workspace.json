@@ -4,25 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "3e1ce0e2bd26149d",
+        "id": "70c62ba1e0b57f18",
         "type": "tabs",
         "children": [
           {
-            "id": "1bfde27fa48cca3b",
+            "id": "6f713748f7a612d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Funciones con Fechas.md",
-                "mode": "preview",
+                "file": "README.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Funciones con Fechas"
+              "title": "README"
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -79,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5,
-    "collapsed": true
+    "width": 291.5
   },
   "right": {
     "id": "6072d60f9be2546b",
@@ -96,11 +94,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/Drawing 2025-05-05 09.41.25.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Enlaces salientes de Drawing 2025-05-05 09.41.25.excalidraw"
             }
           },
           {
@@ -166,61 +165,58 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
+      "workspaces:Gestionar disposiciones de espacio de trabajo": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "callout-manager:Insert Callout": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
-      "workspaces:Gestionar disposiciones de espacio de trabajo": false
+      "callout-manager:Insert Callout": false
     }
   },
-  "active": "1bfde27fa48cca3b",
+  "active": "6f713748f7a612d0",
   "lastOpenFiles": [
-    "Fol/Finiquito.md",
-    "Funciones con Fechas.md",
+    "Excalidraw/Drawing 2025-05-05 09.41.25.excalidraw.md",
+    "Lenguaje de Marcas/practica Final 2.md",
+    "Lenguaje de Marcas/Repaso de CSS grid.md",
+    "Lenguaje de Marcas/CSS Básico II.md",
+    "Entornos/Tarea Complejidad Ciclomática/Tarea Complejidad Ciclomática.md",
+    "Entornos/Práctica de Analizador de Código.md",
+    "Entornos repaso/Ejercicios de Complejidad Ciclomática 2.md",
+    "Entornos repaso/{3B890040-6D67-4916-BCAE-CECD9D813C67}.png",
+    "Entornos repaso/{1E4DB839-BD2F-474D-A271-1315BE87F36A}.png",
     "Fol/Temas 10 y 11.md",
-    "Fol/Tema 14/Tema 14.md",
-    "Programación/E881CrudCategorias.md",
-    "Programación/Conexión con la base de datos.md",
-    "Programación/Temas de examen de programación.md",
-    "2025-04-23.md",
-    "2025-05-04.md",
-    "2025-04-25.md",
-    "2025-05-05.md",
-    "2025-05-06.md",
-    "Tarea Complejidad Ciclomática.md",
-    "01 - Bases de datos/Proyecto Procedimiento de Empleados jubilados.md",
-    "Java y Mysql.md",
-    "Sin nombre",
+    "Fol/Finiquito.md",
+    "Fol/CV.md",
     "Fol/Clase Fol.md",
-    "Fol/Tema 14/Proceso de despido.md",
-    "Fol/Tema 14/Pasted image 20250422191513.png",
-    "01 - Bases de datos/PLSQL/Proyecto Sistema de Gestión de Tickets.md",
-    "01 - Bases de datos/PLSQL/Script de Gestión de compras de artículos.md",
-    "01 - Bases de datos/PLSQL/Script Ejercicio de Movimientos de Cuentas.md",
-    "01 - Bases de datos/PLSQL/Ejercicios de PL SQL.md",
-    "01 - Bases de datos/PLSQL/FOR UPDATE OF y WHERE CURRENT OF.md",
-    "01 - Bases de datos/PLSQL/Pedir Datos PLSQL.md",
-    "01 - Bases de datos/PLSQL/Proyecto Procedimiento de Empleados jubilados.md",
-    "01 - Bases de datos/PLSQL/Boceto de PLSQL.md",
-    "01 - Bases de datos/PLSQL/Apuntes de PL SQL.md",
-    "Tarea de diagramas de caso de uso/Pasted image 20250323201602.png",
-    "Tarea de diagramas de caso de uso/Pasted image 20250323201541.png",
-    "Tarea de diagramas de caso de uso/Pasted image 20250323201526.png",
-    "Pasted image 20250422095528.png",
-    "01 - Bases de datos/PLSQL",
-    "Fol/Tema 14",
-    "Excalidraw/Proceso de despido 1.png",
-    "Excalidraw/Proceso de despido.png",
-    "02 - Sistemas Informáticos/Linux/Usuarios",
-    "02 - Sistemas Informáticos/Linux/Usuarios/Imagenes",
-    "02 - Sistemas Informáticos/Linux/Comandos Linux/Ejercicio del 71 al 100/Imagenes/Pasted image 20250414180045.png",
-    "02 - Sistemas Informáticos/Linux/Usuarios/Imagenes/Pasted image 20250415081905.png",
-    "02 - Sistemas Informáticos/Linux/Usuarios/Imagenes/Pasted image 20250415081444.png",
-    "02 - Sistemas Informáticos/Linux/Comandos Linux/Ejercicio del 71 al 100/Imagenes",
-    "02 - Sistemas Informáticos/Linux/Comandos Linux/Ejercicio del 51 al 70/Imagenes",
-    "02 - Sistemas Informáticos/Linux/Comandos Linux/Ejercicio del 71 al 100",
-    "02 - Sistemas Informáticos/Linux/Comandos Linux/Ejercicio del 51 al 70",
-    "02 - Sistemas Informáticos/Linux/Comandos Linux/Ejercicio del 1 al 50"
+    "Programación/Conexión con la base de datos.md",
+    "Scripts sh/{3B4046E8-0D28-40A8-AB92-40DD4E58B925}.png",
+    "GUIÓN PELÏCULA PAGO JUSTO.md",
+    "Repaso Programación.md",
+    "Expresiones Regulares/Ejercicios de variables y script - 1.md",
+    "Programación/Temas de examen de programación.md",
+    "Programación/E881CrudCategorias.md",
+    "02 - Sistemas Informáticos/Linux/Introducción a Linux.md",
+    "02 - Sistemas Informáticos/Linux/Introducción a Linux.pdf",
+    "01 - Bases de datos/Proyecto Procedimiento de Empleados jubilados.md",
+    "01 - Bases de datos/Apuntes de bases de datos 14.03.2025.md",
+    "01 - Bases de datos/BD 28 de 03.md",
+    "01 - Bases de datos/Funciones con Fechas.md",
+    "README.md",
+    "Expresiones Regulares/Continuación de Usuarios lInux.md",
+    "Notas diarias/2025-05-06.md",
+    "Notas diarias",
+    "Notas diarias/2025-04-23.md",
+    "Entornos repaso/{168535FA-D493-4240-BA5D-2C070875B70D}.png",
+    "Entornos repaso",
+    "Entornos repaso/{35EB9810-A581-4262-B050-420FBA45E617}.png",
+    "Entornos repaso/{04EB1410-074F-468C-A052-9FFEAD7F28A3}.png",
+    "Scripts sh/{0E12911B-813A-4EC3-A4D9-5FCB4ACB40FF}.png",
+    "Scripts sh",
+    "Scripts sh/{08E87A87-4A2E-4431-97E0-91A98A80072B}.png",
+    "Scripts sh/{B284BAAD-60D6-454B-AF77-CE65B4F303E4}.png",
+    "Scripts sh/{BC6F68DE-D824-4C3B-A895-24424E882C80}.png",
+    "Expresiones Regulares/Imagenes",
+    "Expresiones Regulares",
+    "Entornos/Tarea Complejidad Ciclomática/Tarea Complejidad Ciclomática.html",
+    "Tarea Complejidad Ciclomática.pdf",
+    "Entornos/Tarea Complejidad Ciclomática/Imagenes",
+    "Entornos/Tarea Complejidad Ciclomática"
   ]
 }

@@ -1,4 +1,5 @@
 {
+  "disableDoubleClickTextEditing": false,
   "folder": "Excalidraw",
   "cropFolder": "",
   "annotateFolder": "",
@@ -100,7 +101,7 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.9.1",
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.11.1",
     "libraryItems": [
       {
         "id": "HQN_J-bg6mc3gfh8ufn8x",
@@ -129,7 +130,6 @@
               "2S112H3-S3_t8QUZVbyBX",
               "mGB0YZXPiUOHkFByBquG7"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321649,
             "index": "a0",
@@ -158,7 +158,6 @@
               "2S112H3-S3_t8QUZVbyBX",
               "mGB0YZXPiUOHkFByBquG7"
             ],
-            "strokeSharpness": "sharp",
             "seed": 43158013,
             "version": 545,
             "versionNonce": 1136206734,
@@ -206,7 +205,6 @@
               "2S112H3-S3_t8QUZVbyBX",
               "mGB0YZXPiUOHkFByBquG7"
             ],
-            "strokeSharpness": "sharp",
             "seed": 459844147,
             "version": 687,
             "versionNonce": 1250370642,
@@ -243,7 +241,6 @@
               "2S112H3-S3_t8QUZVbyBX",
               "mGB0YZXPiUOHkFByBquG7"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321649,
             "startBinding": null,
@@ -291,7 +288,6 @@
               "2S112H3-S3_t8QUZVbyBX",
               "mGB0YZXPiUOHkFByBquG7"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321649,
             "index": "a4",
@@ -324,7 +320,6 @@
               "2S112H3-S3_t8QUZVbyBX",
               "mGB0YZXPiUOHkFByBquG7"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321649,
             "startBinding": null,
@@ -372,7 +367,6 @@
               "2S112H3-S3_t8QUZVbyBX",
               "mGB0YZXPiUOHkFByBquG7"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321649,
             "index": "a6",
@@ -405,7 +399,6 @@
               "2S112H3-S3_t8QUZVbyBX",
               "mGB0YZXPiUOHkFByBquG7"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321649,
             "startBinding": null,
@@ -453,7 +446,6 @@
               "2S112H3-S3_t8QUZVbyBX",
               "mGB0YZXPiUOHkFByBquG7"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321649,
             "index": "a8",
@@ -486,7 +478,6 @@
               "2S112H3-S3_t8QUZVbyBX",
               "mGB0YZXPiUOHkFByBquG7"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321649,
             "startBinding": null,
@@ -534,7 +525,6 @@
               "2S112H3-S3_t8QUZVbyBX",
               "mGB0YZXPiUOHkFByBquG7"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321649,
             "index": "aA",
@@ -561,7 +551,6 @@
             "groupIds": [
               "mGB0YZXPiUOHkFByBquG7"
             ],
-            "strokeSharpness": "sharp",
             "seed": 693563421,
             "version": 465,
             "versionNonce": 1720396494,
@@ -616,7 +605,6 @@
               "KFP7fVbVtj9Yb55DaVEmL",
               "myPeQHIsF9J6_-CPtH1ck"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321650,
             "index": "a0",
@@ -648,7 +636,6 @@
               "KFP7fVbVtj9Yb55DaVEmL",
               "myPeQHIsF9J6_-CPtH1ck"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321650,
             "index": "a1",
@@ -680,7 +667,6 @@
               "KFP7fVbVtj9Yb55DaVEmL",
               "myPeQHIsF9J6_-CPtH1ck"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321650,
             "index": "a2",
@@ -708,7 +694,6 @@
               "KFP7fVbVtj9Yb55DaVEmL",
               "myPeQHIsF9J6_-CPtH1ck"
             ],
-            "strokeSharpness": "round",
             "seed": 1249148701,
             "version": 1526,
             "versionNonce": 1012748110,
@@ -761,7 +746,6 @@
               "KFP7fVbVtj9Yb55DaVEmL",
               "myPeQHIsF9J6_-CPtH1ck"
             ],
-            "strokeSharpness": "round",
             "boundElements": [],
             "updated": 1744839321650,
             "startBinding": null,
@@ -810,7 +794,6 @@
               "KFP7fVbVtj9Yb55DaVEmL",
               "myPeQHIsF9J6_-CPtH1ck"
             ],
-            "strokeSharpness": "round",
             "boundElements": [],
             "updated": 1744839321650,
             "startBinding": null,
@@ -854,7 +837,6 @@
             "groupIds": [
               "myPeQHIsF9J6_-CPtH1ck"
             ],
-            "strokeSharpness": "sharp",
             "seed": 774938771,
             "version": 1209,
             "versionNonce": 583021138,
@@ -905,7 +887,6 @@
               "R40ndgZ_34jb3t7qKjii7",
               "BapqKthjU4VYzma1F5LbI"
             ],
-            "strokeSharpness": "sharp",
             "seed": 1379159581,
             "version": 641,
             "versionNonce": 240145358,
@@ -945,7 +926,6 @@
               "R40ndgZ_34jb3t7qKjii7",
               "BapqKthjU4VYzma1F5LbI"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321650,
             "index": "a1",
@@ -981,7 +961,6 @@
               "R40ndgZ_34jb3t7qKjii7",
               "BapqKthjU4VYzma1F5LbI"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321650,
             "startBinding": null,
@@ -1040,7 +1019,6 @@
               "R40ndgZ_34jb3t7qKjii7",
               "BapqKthjU4VYzma1F5LbI"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321650,
             "startBinding": null,
@@ -1092,7 +1070,6 @@
               "R40ndgZ_34jb3t7qKjii7",
               "BapqKthjU4VYzma1F5LbI"
             ],
-            "strokeSharpness": "round",
             "seed": 14543347,
             "version": 745,
             "versionNonce": 833370190,
@@ -1146,7 +1123,6 @@
               "R40ndgZ_34jb3t7qKjii7",
               "BapqKthjU4VYzma1F5LbI"
             ],
-            "strokeSharpness": "round",
             "boundElements": [],
             "updated": 1744839321650,
             "startBinding": null,
@@ -1196,7 +1172,6 @@
               "R40ndgZ_34jb3t7qKjii7",
               "BapqKthjU4VYzma1F5LbI"
             ],
-            "strokeSharpness": "round",
             "boundElements": [],
             "updated": 1744839321650,
             "startBinding": null,
@@ -1246,7 +1221,6 @@
               "R40ndgZ_34jb3t7qKjii7",
               "BapqKthjU4VYzma1F5LbI"
             ],
-            "strokeSharpness": "round",
             "boundElements": [],
             "updated": 1744839321650,
             "startBinding": null,
@@ -1291,7 +1265,6 @@
               "R40ndgZ_34jb3t7qKjii7",
               "BapqKthjU4VYzma1F5LbI"
             ],
-            "strokeSharpness": "sharp",
             "seed": 349261843,
             "version": 593,
             "versionNonce": 1236860110,
@@ -1346,7 +1319,6 @@
               "R40ndgZ_34jb3t7qKjii7",
               "BapqKthjU4VYzma1F5LbI"
             ],
-            "strokeSharpness": "sharp",
             "seed": 1885800339,
             "version": 519,
             "versionNonce": 133988114,
@@ -1400,7 +1372,6 @@
             "groupIds": [
               "BapqKthjU4VYzma1F5LbI"
             ],
-            "strokeSharpness": "sharp",
             "seed": 1843519677,
             "version": 427,
             "versionNonce": 1666986766,
@@ -1456,7 +1427,6 @@
               "Z7MYN16OhAcpzlQEdFN-U",
               "PE-YKgdLUNH6HY_tG3gdz"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321651,
             "index": "a0",
@@ -1489,7 +1459,6 @@
               "Z7MYN16OhAcpzlQEdFN-U",
               "PE-YKgdLUNH6HY_tG3gdz"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321651,
             "startBinding": null,
@@ -1545,7 +1514,6 @@
               "Z7MYN16OhAcpzlQEdFN-U",
               "PE-YKgdLUNH6HY_tG3gdz"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321651,
             "startBinding": null,
@@ -1596,7 +1564,6 @@
               "Z7MYN16OhAcpzlQEdFN-U",
               "PE-YKgdLUNH6HY_tG3gdz"
             ],
-            "strokeSharpness": "round",
             "seed": 1964970931,
             "version": 857,
             "versionNonce": 1245267854,
@@ -1630,7 +1597,6 @@
               "Z7MYN16OhAcpzlQEdFN-U",
               "PE-YKgdLUNH6HY_tG3gdz"
             ],
-            "strokeSharpness": "round",
             "seed": 956317267,
             "version": 599,
             "versionNonce": 109789266,
@@ -1668,7 +1634,6 @@
               "Z7MYN16OhAcpzlQEdFN-U",
               "PE-YKgdLUNH6HY_tG3gdz"
             ],
-            "strokeSharpness": "round",
             "boundElements": [],
             "updated": 1744839321651,
             "index": "a5",
@@ -1702,7 +1667,6 @@
               "Z7MYN16OhAcpzlQEdFN-U",
               "PE-YKgdLUNH6HY_tG3gdz"
             ],
-            "strokeSharpness": "round",
             "boundElements": [],
             "updated": 1744839321651,
             "index": "a6",
@@ -1736,7 +1700,6 @@
               "Z7MYN16OhAcpzlQEdFN-U",
               "PE-YKgdLUNH6HY_tG3gdz"
             ],
-            "strokeSharpness": "round",
             "boundElements": [],
             "updated": 1744839321651,
             "index": "a7",
@@ -1766,7 +1729,6 @@
               "Z7MYN16OhAcpzlQEdFN-U",
               "PE-YKgdLUNH6HY_tG3gdz"
             ],
-            "strokeSharpness": "round",
             "seed": 85804637,
             "version": 725,
             "versionNonce": 372298706,
@@ -1804,7 +1766,6 @@
               "Z7MYN16OhAcpzlQEdFN-U",
               "PE-YKgdLUNH6HY_tG3gdz"
             ],
-            "strokeSharpness": "round",
             "boundElements": [],
             "updated": 1744839321651,
             "index": "a9",
@@ -1834,7 +1795,6 @@
               "Z7MYN16OhAcpzlQEdFN-U",
               "PE-YKgdLUNH6HY_tG3gdz"
             ],
-            "strokeSharpness": "round",
             "seed": 1864545875,
             "version": 600,
             "versionNonce": 1279953298,
@@ -1868,7 +1828,6 @@
               "Z7MYN16OhAcpzlQEdFN-U",
               "PE-YKgdLUNH6HY_tG3gdz"
             ],
-            "strokeSharpness": "round",
             "seed": 1558807933,
             "version": 487,
             "versionNonce": 1521094798,
@@ -1921,7 +1880,6 @@
               "Z7MYN16OhAcpzlQEdFN-U",
               "PE-YKgdLUNH6HY_tG3gdz"
             ],
-            "strokeSharpness": "round",
             "boundElements": [],
             "updated": 1744839321651,
             "startBinding": null,
@@ -1965,7 +1923,6 @@
             "groupIds": [
               "PE-YKgdLUNH6HY_tG3gdz"
             ],
-            "strokeSharpness": "round",
             "seed": 951413981,
             "version": 503,
             "versionNonce": 611634894,
@@ -2022,7 +1979,6 @@
               "XWYL4s5Nnu3td1YyZ2Q22",
               "2RrN7Iox-tCCApkpxFK2h"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321651,
             "index": "a0",
@@ -2055,7 +2011,6 @@
               "XWYL4s5Nnu3td1YyZ2Q22",
               "2RrN7Iox-tCCApkpxFK2h"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321651,
             "index": "a1",
@@ -2088,7 +2043,6 @@
               "XWYL4s5Nnu3td1YyZ2Q22",
               "2RrN7Iox-tCCApkpxFK2h"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321651,
             "startBinding": null,
@@ -2144,7 +2098,6 @@
               "XWYL4s5Nnu3td1YyZ2Q22",
               "2RrN7Iox-tCCApkpxFK2h"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321651,
             "startBinding": null,
@@ -2195,7 +2148,6 @@
               "XWYL4s5Nnu3td1YyZ2Q22",
               "2RrN7Iox-tCCApkpxFK2h"
             ],
-            "strokeSharpness": "round",
             "seed": 504681661,
             "version": 634,
             "versionNonce": 156774546,
@@ -2229,7 +2181,6 @@
               "XWYL4s5Nnu3td1YyZ2Q22",
               "2RrN7Iox-tCCApkpxFK2h"
             ],
-            "strokeSharpness": "round",
             "seed": 2099460285,
             "version": 686,
             "versionNonce": 2079218062,
@@ -2263,7 +2214,6 @@
               "XWYL4s5Nnu3td1YyZ2Q22",
               "2RrN7Iox-tCCApkpxFK2h"
             ],
-            "strokeSharpness": "round",
             "seed": 1873432243,
             "version": 531,
             "versionNonce": 1139297874,
@@ -2297,7 +2247,6 @@
               "XWYL4s5Nnu3td1YyZ2Q22",
               "2RrN7Iox-tCCApkpxFK2h"
             ],
-            "strokeSharpness": "sharp",
             "seed": 342451091,
             "version": 693,
             "versionNonce": 138934222,
@@ -2333,7 +2282,6 @@
               "XWYL4s5Nnu3td1YyZ2Q22",
               "2RrN7Iox-tCCApkpxFK2h"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321651,
             "index": "a8",
@@ -2361,7 +2309,6 @@
               "XWYL4s5Nnu3td1YyZ2Q22",
               "2RrN7Iox-tCCApkpxFK2h"
             ],
-            "strokeSharpness": "round",
             "seed": 788929021,
             "version": 576,
             "versionNonce": 206818830,
@@ -2395,7 +2342,6 @@
               "XWYL4s5Nnu3td1YyZ2Q22",
               "2RrN7Iox-tCCApkpxFK2h"
             ],
-            "strokeSharpness": "round",
             "seed": 691125373,
             "version": 582,
             "versionNonce": 1847747026,
@@ -2448,7 +2394,6 @@
               "XWYL4s5Nnu3td1YyZ2Q22",
               "2RrN7Iox-tCCApkpxFK2h"
             ],
-            "strokeSharpness": "round",
             "boundElements": [],
             "updated": 1744839321651,
             "startBinding": null,
@@ -2497,7 +2442,6 @@
               "XWYL4s5Nnu3td1YyZ2Q22",
               "2RrN7Iox-tCCApkpxFK2h"
             ],
-            "strokeSharpness": "round",
             "boundElements": [],
             "updated": 1744839321651,
             "startBinding": null,
@@ -2546,7 +2490,6 @@
               "XWYL4s5Nnu3td1YyZ2Q22",
               "2RrN7Iox-tCCApkpxFK2h"
             ],
-            "strokeSharpness": "round",
             "boundElements": [],
             "updated": 1744839321651,
             "startBinding": null,
@@ -2590,7 +2533,6 @@
             "groupIds": [
               "2RrN7Iox-tCCApkpxFK2h"
             ],
-            "strokeSharpness": "round",
             "seed": 1457415165,
             "version": 444,
             "versionNonce": 1083020626,
@@ -2648,7 +2590,6 @@
               "ujrJtuXpz5BbWvkWZ_im4",
               "m870rObAuOMJDXMfdH9vr"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321652,
             "index": "a0",
@@ -2677,7 +2618,6 @@
               "ujrJtuXpz5BbWvkWZ_im4",
               "m870rObAuOMJDXMfdH9vr"
             ],
-            "strokeSharpness": "sharp",
             "seed": 75358269,
             "version": 641,
             "versionNonce": 1620253458,
@@ -2709,7 +2649,6 @@
               "ujrJtuXpz5BbWvkWZ_im4",
               "m870rObAuOMJDXMfdH9vr"
             ],
-            "strokeSharpness": "sharp",
             "seed": 1229933683,
             "version": 607,
             "versionNonce": 2047694606,
@@ -2760,7 +2699,6 @@
               "ujrJtuXpz5BbWvkWZ_im4",
               "m870rObAuOMJDXMfdH9vr"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321652,
             "startBinding": null,
@@ -2807,7 +2745,6 @@
               "ujrJtuXpz5BbWvkWZ_im4",
               "m870rObAuOMJDXMfdH9vr"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321652,
             "startBinding": null,
@@ -2854,7 +2791,6 @@
               "ujrJtuXpz5BbWvkWZ_im4",
               "m870rObAuOMJDXMfdH9vr"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321652,
             "startBinding": null,
@@ -2901,7 +2837,6 @@
               "ujrJtuXpz5BbWvkWZ_im4",
               "m870rObAuOMJDXMfdH9vr"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321652,
             "startBinding": null,
@@ -2944,7 +2879,6 @@
               "ujrJtuXpz5BbWvkWZ_im4",
               "m870rObAuOMJDXMfdH9vr"
             ],
-            "strokeSharpness": "sharp",
             "seed": 1866359325,
             "version": 626,
             "versionNonce": 685202514,
@@ -2991,7 +2925,6 @@
               "ujrJtuXpz5BbWvkWZ_im4",
               "m870rObAuOMJDXMfdH9vr"
             ],
-            "strokeSharpness": "sharp",
             "seed": 1715999581,
             "version": 513,
             "versionNonce": 2014890446,
@@ -3042,7 +2975,6 @@
               "ujrJtuXpz5BbWvkWZ_im4",
               "m870rObAuOMJDXMfdH9vr"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321652,
             "startBinding": null,
@@ -3089,7 +3021,6 @@
               "ujrJtuXpz5BbWvkWZ_im4",
               "m870rObAuOMJDXMfdH9vr"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321652,
             "startBinding": null,
@@ -3136,7 +3067,6 @@
               "ujrJtuXpz5BbWvkWZ_im4",
               "m870rObAuOMJDXMfdH9vr"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321652,
             "startBinding": null,
@@ -3183,7 +3113,6 @@
               "ujrJtuXpz5BbWvkWZ_im4",
               "m870rObAuOMJDXMfdH9vr"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321652,
             "startBinding": null,
@@ -3225,7 +3154,6 @@
             "groupIds": [
               "m870rObAuOMJDXMfdH9vr"
             ],
-            "strokeSharpness": "sharp",
             "seed": 720895315,
             "version": 518,
             "versionNonce": 37496210,
@@ -3281,7 +3209,6 @@
               "0e5HinyEP3XYkLa068U5W",
               "GqPKenbd2d-Y0Wfsya7OW"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321652,
             "index": "a0",
@@ -3314,7 +3241,6 @@
               "0e5HinyEP3XYkLa068U5W",
               "GqPKenbd2d-Y0Wfsya7OW"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321652,
             "startBinding": null,
@@ -3370,7 +3296,6 @@
               "0e5HinyEP3XYkLa068U5W",
               "GqPKenbd2d-Y0Wfsya7OW"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321652,
             "startBinding": null,
@@ -3422,7 +3347,6 @@
               "0e5HinyEP3XYkLa068U5W",
               "GqPKenbd2d-Y0Wfsya7OW"
             ],
-            "strokeSharpness": "sharp",
             "seed": 1552334931,
             "version": 612,
             "versionNonce": 1213819154,
@@ -3455,7 +3379,6 @@
               "0e5HinyEP3XYkLa068U5W",
               "GqPKenbd2d-Y0Wfsya7OW"
             ],
-            "strokeSharpness": "sharp",
             "seed": 1003405661,
             "version": 663,
             "versionNonce": 320530702,
@@ -3492,7 +3415,6 @@
               "0e5HinyEP3XYkLa068U5W",
               "GqPKenbd2d-Y0Wfsya7OW"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321652,
             "index": "a5",
@@ -3525,7 +3447,6 @@
               "0e5HinyEP3XYkLa068U5W",
               "GqPKenbd2d-Y0Wfsya7OW"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321652,
             "index": "a6",
@@ -3558,7 +3479,6 @@
               "0e5HinyEP3XYkLa068U5W",
               "GqPKenbd2d-Y0Wfsya7OW"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321652,
             "index": "a7",
@@ -3591,7 +3511,6 @@
               "0e5HinyEP3XYkLa068U5W",
               "GqPKenbd2d-Y0Wfsya7OW"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321652,
             "index": "a8",
@@ -3624,7 +3543,6 @@
               "0e5HinyEP3XYkLa068U5W",
               "GqPKenbd2d-Y0Wfsya7OW"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321652,
             "index": "a9",
@@ -3651,7 +3569,6 @@
             "groupIds": [
               "GqPKenbd2d-Y0Wfsya7OW"
             ],
-            "strokeSharpness": "sharp",
             "seed": 2066885853,
             "version": 558,
             "versionNonce": 1282907086,
@@ -3707,7 +3624,6 @@
               "8L1w98M6ak3YxILbCu2CB",
               "B-iqRj4DQSFLYCPu6TVEm"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321653,
             "index": "a0",
@@ -3740,7 +3656,6 @@
               "8L1w98M6ak3YxILbCu2CB",
               "B-iqRj4DQSFLYCPu6TVEm"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321653,
             "startBinding": null,
@@ -3796,7 +3711,6 @@
               "8L1w98M6ak3YxILbCu2CB",
               "B-iqRj4DQSFLYCPu6TVEm"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321653,
             "startBinding": null,
@@ -3848,7 +3762,6 @@
               "8L1w98M6ak3YxILbCu2CB",
               "B-iqRj4DQSFLYCPu6TVEm"
             ],
-            "strokeSharpness": "sharp",
             "seed": 731482099,
             "version": 790,
             "versionNonce": 1956741198,
@@ -3885,7 +3798,6 @@
               "8L1w98M6ak3YxILbCu2CB",
               "B-iqRj4DQSFLYCPu6TVEm"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321653,
             "index": "a4",
@@ -3914,7 +3826,6 @@
               "8L1w98M6ak3YxILbCu2CB",
               "B-iqRj4DQSFLYCPu6TVEm"
             ],
-            "strokeSharpness": "sharp",
             "seed": 480768307,
             "version": 628,
             "versionNonce": 896026254,
@@ -3960,7 +3871,6 @@
             "groupIds": [
               "B-iqRj4DQSFLYCPu6TVEm"
             ],
-            "strokeSharpness": "sharp",
             "seed": 1099915101,
             "version": 596,
             "versionNonce": 1762636114,
@@ -4016,7 +3926,6 @@
               "GaAweOtyybCTMgav9D0im",
               "Euz0kQVTR1Z6pez8X9_LF"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321654,
             "index": "a0",
@@ -4049,7 +3958,6 @@
               "GaAweOtyybCTMgav9D0im",
               "Euz0kQVTR1Z6pez8X9_LF"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321654,
             "startBinding": null,
@@ -4105,7 +4013,6 @@
               "GaAweOtyybCTMgav9D0im",
               "Euz0kQVTR1Z6pez8X9_LF"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321654,
             "startBinding": null,
@@ -4161,7 +4068,6 @@
               "GaAweOtyybCTMgav9D0im",
               "Euz0kQVTR1Z6pez8X9_LF"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321654,
             "index": "a3",
@@ -4194,7 +4100,6 @@
               "GaAweOtyybCTMgav9D0im",
               "Euz0kQVTR1Z6pez8X9_LF"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321654,
             "index": "a4",
@@ -4227,7 +4132,6 @@
               "GaAweOtyybCTMgav9D0im",
               "Euz0kQVTR1Z6pez8X9_LF"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321654,
             "index": "a5",
@@ -4254,7 +4158,6 @@
             "groupIds": [
               "Euz0kQVTR1Z6pez8X9_LF"
             ],
-            "strokeSharpness": "sharp",
             "seed": 1597135517,
             "version": 557,
             "versionNonce": 585207694,
@@ -4310,7 +4213,6 @@
               "F3f67TcTAq2Hxy-W10w-U",
               "YBnDW9_fQvW55SSuh3Ad8"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321654,
             "index": "a0",
@@ -4343,7 +4245,6 @@
               "F3f67TcTAq2Hxy-W10w-U",
               "YBnDW9_fQvW55SSuh3Ad8"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321654,
             "startBinding": null,
@@ -4399,7 +4300,6 @@
               "F3f67TcTAq2Hxy-W10w-U",
               "YBnDW9_fQvW55SSuh3Ad8"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321654,
             "startBinding": null,
@@ -4451,7 +4351,6 @@
               "F3f67TcTAq2Hxy-W10w-U",
               "YBnDW9_fQvW55SSuh3Ad8"
             ],
-            "strokeSharpness": "sharp",
             "seed": 1575323837,
             "version": 691,
             "versionNonce": 745636878,
@@ -4488,7 +4387,6 @@
               "F3f67TcTAq2Hxy-W10w-U",
               "YBnDW9_fQvW55SSuh3Ad8"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321654,
             "index": "a4",
@@ -4517,7 +4415,6 @@
               "F3f67TcTAq2Hxy-W10w-U",
               "YBnDW9_fQvW55SSuh3Ad8"
             ],
-            "strokeSharpness": "sharp",
             "seed": 1087299197,
             "version": 1263,
             "versionNonce": 1140970062,
@@ -4554,7 +4451,6 @@
               "F3f67TcTAq2Hxy-W10w-U",
               "YBnDW9_fQvW55SSuh3Ad8"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321654,
             "index": "a6",
@@ -4587,7 +4483,6 @@
               "F3f67TcTAq2Hxy-W10w-U",
               "YBnDW9_fQvW55SSuh3Ad8"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321654,
             "index": "a7",
@@ -4616,7 +4511,6 @@
               "F3f67TcTAq2Hxy-W10w-U",
               "YBnDW9_fQvW55SSuh3Ad8"
             ],
-            "strokeSharpness": "round",
             "seed": 832459923,
             "version": 864,
             "versionNonce": 1982578514,
@@ -4655,7 +4549,6 @@
               "F3f67TcTAq2Hxy-W10w-U",
               "YBnDW9_fQvW55SSuh3Ad8"
             ],
-            "strokeSharpness": "round",
             "boundElements": [],
             "updated": 1744839321654,
             "index": "a9",
@@ -4686,7 +4579,6 @@
               "F3f67TcTAq2Hxy-W10w-U",
               "YBnDW9_fQvW55SSuh3Ad8"
             ],
-            "strokeSharpness": "round",
             "seed": 341794291,
             "version": 1162,
             "versionNonce": 1423705362,
@@ -4721,7 +4613,6 @@
               "F3f67TcTAq2Hxy-W10w-U",
               "YBnDW9_fQvW55SSuh3Ad8"
             ],
-            "strokeSharpness": "round",
             "seed": 148691475,
             "version": 755,
             "versionNonce": 2057309454,
@@ -4756,7 +4647,6 @@
               "F3f67TcTAq2Hxy-W10w-U",
               "YBnDW9_fQvW55SSuh3Ad8"
             ],
-            "strokeSharpness": "round",
             "seed": 991746749,
             "version": 708,
             "versionNonce": 150835922,
@@ -4789,7 +4679,6 @@
             "groupIds": [
               "YBnDW9_fQvW55SSuh3Ad8"
             ],
-            "strokeSharpness": "round",
             "seed": 2056582419,
             "version": 508,
             "versionNonce": 1031224142,
@@ -4847,7 +4736,6 @@
               "hinI0uJGcJCAKZXw__P_B",
               "nkL-m6RDecPJxVI2KMMyv"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321654,
             "index": "a0",
@@ -4880,7 +4768,6 @@
               "hinI0uJGcJCAKZXw__P_B",
               "nkL-m6RDecPJxVI2KMMyv"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321654,
             "startBinding": null,
@@ -4936,7 +4823,6 @@
               "hinI0uJGcJCAKZXw__P_B",
               "nkL-m6RDecPJxVI2KMMyv"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321654,
             "startBinding": null,
@@ -4988,7 +4874,6 @@
               "hinI0uJGcJCAKZXw__P_B",
               "nkL-m6RDecPJxVI2KMMyv"
             ],
-            "strokeSharpness": "sharp",
             "seed": 1315909843,
             "version": 728,
             "versionNonce": 1793015758,
@@ -5040,7 +4925,6 @@
               "hinI0uJGcJCAKZXw__P_B",
               "nkL-m6RDecPJxVI2KMMyv"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321654,
             "startBinding": null,
@@ -5082,7 +4966,6 @@
             "groupIds": [
               "nkL-m6RDecPJxVI2KMMyv"
             ],
-            "strokeSharpness": "sharp",
             "seed": 1547263251,
             "version": 580,
             "versionNonce": 750917134,
@@ -5138,7 +5021,6 @@
               "-ajyoO2q7R0tHLBi1gM2W",
               "2iB1lepRSoOc_WvQv2s0Z"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321655,
             "index": "a0",
@@ -5171,7 +5053,6 @@
               "-ajyoO2q7R0tHLBi1gM2W",
               "2iB1lepRSoOc_WvQv2s0Z"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321655,
             "startBinding": null,
@@ -5227,7 +5108,6 @@
               "-ajyoO2q7R0tHLBi1gM2W",
               "2iB1lepRSoOc_WvQv2s0Z"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321655,
             "startBinding": null,
@@ -5280,7 +5160,6 @@
               "-ajyoO2q7R0tHLBi1gM2W",
               "2iB1lepRSoOc_WvQv2s0Z"
             ],
-            "strokeSharpness": "sharp",
             "seed": 979338451,
             "version": 800,
             "versionNonce": 1740794510,
@@ -5318,7 +5197,6 @@
               "-ajyoO2q7R0tHLBi1gM2W",
               "2iB1lepRSoOc_WvQv2s0Z"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321655,
             "index": "a4",
@@ -5347,7 +5225,6 @@
               "-ajyoO2q7R0tHLBi1gM2W",
               "2iB1lepRSoOc_WvQv2s0Z"
             ],
-            "strokeSharpness": "sharp",
             "seed": 689913021,
             "version": 941,
             "versionNonce": 1634855118,
@@ -5396,7 +5273,6 @@
               "-ajyoO2q7R0tHLBi1gM2W",
               "2iB1lepRSoOc_WvQv2s0Z"
             ],
-            "strokeSharpness": "sharp",
             "seed": 1709202355,
             "version": 838,
             "versionNonce": 362304274,
@@ -5434,7 +5310,6 @@
               "-ajyoO2q7R0tHLBi1gM2W",
               "2iB1lepRSoOc_WvQv2s0Z"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321655,
             "index": "a7",
@@ -5468,7 +5343,6 @@
               "-ajyoO2q7R0tHLBi1gM2W",
               "2iB1lepRSoOc_WvQv2s0Z"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321655,
             "index": "a8",
@@ -5502,7 +5376,6 @@
               "-ajyoO2q7R0tHLBi1gM2W",
               "2iB1lepRSoOc_WvQv2s0Z"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321655,
             "index": "a9",
@@ -5536,7 +5409,6 @@
               "-ajyoO2q7R0tHLBi1gM2W",
               "2iB1lepRSoOc_WvQv2s0Z"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321655,
             "index": "aA",
@@ -5570,7 +5442,6 @@
               "-ajyoO2q7R0tHLBi1gM2W",
               "2iB1lepRSoOc_WvQv2s0Z"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321655,
             "index": "aB",
@@ -5604,7 +5475,6 @@
               "-ajyoO2q7R0tHLBi1gM2W",
               "2iB1lepRSoOc_WvQv2s0Z"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321655,
             "index": "aC",
@@ -5638,7 +5508,6 @@
               "-ajyoO2q7R0tHLBi1gM2W",
               "2iB1lepRSoOc_WvQv2s0Z"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321655,
             "index": "aD",
@@ -5672,7 +5541,6 @@
               "-ajyoO2q7R0tHLBi1gM2W",
               "2iB1lepRSoOc_WvQv2s0Z"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321655,
             "index": "aE",
@@ -5706,7 +5574,6 @@
               "-ajyoO2q7R0tHLBi1gM2W",
               "2iB1lepRSoOc_WvQv2s0Z"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321655,
             "index": "aF",
@@ -5740,7 +5607,6 @@
               "-ajyoO2q7R0tHLBi1gM2W",
               "2iB1lepRSoOc_WvQv2s0Z"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321655,
             "index": "aG",
@@ -5774,7 +5640,6 @@
               "-ajyoO2q7R0tHLBi1gM2W",
               "2iB1lepRSoOc_WvQv2s0Z"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321655,
             "index": "aH",
@@ -5808,7 +5673,6 @@
               "-ajyoO2q7R0tHLBi1gM2W",
               "2iB1lepRSoOc_WvQv2s0Z"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321655,
             "index": "aI",
@@ -5835,7 +5699,6 @@
             "groupIds": [
               "2iB1lepRSoOc_WvQv2s0Z"
             ],
-            "strokeSharpness": "sharp",
             "seed": 1227520851,
             "version": 555,
             "versionNonce": 1944353934,
@@ -5891,7 +5754,6 @@
               "V9JaXkcueFSoscAyAgf4T",
               "55gPd9u3nYhZI7l1uhRN6"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321655,
             "index": "a0",
@@ -5924,7 +5786,6 @@
               "V9JaXkcueFSoscAyAgf4T",
               "55gPd9u3nYhZI7l1uhRN6"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321655,
             "startBinding": null,
@@ -5980,7 +5841,6 @@
               "V9JaXkcueFSoscAyAgf4T",
               "55gPd9u3nYhZI7l1uhRN6"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321655,
             "startBinding": null,
@@ -6031,7 +5891,6 @@
               "V9JaXkcueFSoscAyAgf4T",
               "55gPd9u3nYhZI7l1uhRN6"
             ],
-            "strokeSharpness": "sharp",
             "seed": 1909385213,
             "version": 646,
             "versionNonce": 559755534,
@@ -6086,7 +5945,6 @@
               "V9JaXkcueFSoscAyAgf4T",
               "55gPd9u3nYhZI7l1uhRN6"
             ],
-            "strokeSharpness": "sharp",
             "seed": 1293654259,
             "version": 594,
             "versionNonce": 320122578,
@@ -6122,7 +5980,6 @@
               "V9JaXkcueFSoscAyAgf4T",
               "55gPd9u3nYhZI7l1uhRN6"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321655,
             "index": "a5",
@@ -6154,7 +6011,6 @@
               "V9JaXkcueFSoscAyAgf4T",
               "55gPd9u3nYhZI7l1uhRN6"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321655,
             "index": "a6",
@@ -6186,7 +6042,6 @@
               "V9JaXkcueFSoscAyAgf4T",
               "55gPd9u3nYhZI7l1uhRN6"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321655,
             "index": "a7",
@@ -6218,7 +6073,6 @@
               "V9JaXkcueFSoscAyAgf4T",
               "55gPd9u3nYhZI7l1uhRN6"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321655,
             "index": "a8",
@@ -6250,7 +6104,6 @@
               "V9JaXkcueFSoscAyAgf4T",
               "55gPd9u3nYhZI7l1uhRN6"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321655,
             "index": "a9",
@@ -6282,7 +6135,6 @@
               "V9JaXkcueFSoscAyAgf4T",
               "55gPd9u3nYhZI7l1uhRN6"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321655,
             "index": "aA",
@@ -6314,7 +6166,6 @@
               "V9JaXkcueFSoscAyAgf4T",
               "55gPd9u3nYhZI7l1uhRN6"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321655,
             "index": "aB",
@@ -6346,7 +6197,6 @@
               "V9JaXkcueFSoscAyAgf4T",
               "55gPd9u3nYhZI7l1uhRN6"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321655,
             "index": "aC",
@@ -6373,7 +6223,6 @@
             "groupIds": [
               "55gPd9u3nYhZI7l1uhRN6"
             ],
-            "strokeSharpness": "sharp",
             "seed": 1751032883,
             "version": 519,
             "versionNonce": 1752614990,
@@ -6429,7 +6278,6 @@
               "wdQOysPDZg5LXi7Jz5fwJ",
               "c4lFWrsTu6KH1-57P6lnn"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321655,
             "index": "a0",
@@ -6462,7 +6310,6 @@
               "wdQOysPDZg5LXi7Jz5fwJ",
               "c4lFWrsTu6KH1-57P6lnn"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321655,
             "startBinding": null,
@@ -6518,7 +6365,6 @@
               "wdQOysPDZg5LXi7Jz5fwJ",
               "c4lFWrsTu6KH1-57P6lnn"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321655,
             "startBinding": null,
@@ -6570,7 +6416,6 @@
               "wdQOysPDZg5LXi7Jz5fwJ",
               "c4lFWrsTu6KH1-57P6lnn"
             ],
-            "strokeSharpness": "sharp",
             "seed": 1280810387,
             "version": 589,
             "versionNonce": 455052494,
@@ -6603,7 +6448,6 @@
               "wdQOysPDZg5LXi7Jz5fwJ",
               "c4lFWrsTu6KH1-57P6lnn"
             ],
-            "strokeSharpness": "sharp",
             "seed": 1133865715,
             "version": 573,
             "versionNonce": 1376186130,
@@ -6636,7 +6480,6 @@
               "wdQOysPDZg5LXi7Jz5fwJ",
               "c4lFWrsTu6KH1-57P6lnn"
             ],
-            "strokeSharpness": "round",
             "seed": 657196893,
             "version": 1626,
             "versionNonce": 1768997646,
@@ -6696,7 +6539,6 @@
             "groupIds": [
               "c4lFWrsTu6KH1-57P6lnn"
             ],
-            "strokeSharpness": "sharp",
             "seed": 769130227,
             "version": 509,
             "versionNonce": 893074642,
@@ -6752,7 +6594,6 @@
               "p6KmHtebAIqG9Hf2cQZj3",
               "NNeu7xrUG4m-3Za47Clzd"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321656,
             "index": "a0",
@@ -6785,7 +6626,6 @@
               "p6KmHtebAIqG9Hf2cQZj3",
               "NNeu7xrUG4m-3Za47Clzd"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321656,
             "startBinding": null,
@@ -6841,7 +6681,6 @@
               "p6KmHtebAIqG9Hf2cQZj3",
               "NNeu7xrUG4m-3Za47Clzd"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321656,
             "startBinding": null,
@@ -6893,7 +6732,6 @@
               "p6KmHtebAIqG9Hf2cQZj3",
               "NNeu7xrUG4m-3Za47Clzd"
             ],
-            "strokeSharpness": "round",
             "seed": 893347997,
             "version": 1181,
             "versionNonce": 1433120850,
@@ -6928,7 +6766,6 @@
               "p6KmHtebAIqG9Hf2cQZj3",
               "NNeu7xrUG4m-3Za47Clzd"
             ],
-            "strokeSharpness": "sharp",
             "seed": 685999091,
             "version": 796,
             "versionNonce": 1285797326,
@@ -6961,7 +6798,6 @@
               "p6KmHtebAIqG9Hf2cQZj3",
               "NNeu7xrUG4m-3Za47Clzd"
             ],
-            "strokeSharpness": "round",
             "seed": 1953230195,
             "version": 1498,
             "versionNonce": 150328850,
@@ -7017,7 +6853,6 @@
             "groupIds": [
               "NNeu7xrUG4m-3Za47Clzd"
             ],
-            "strokeSharpness": "round",
             "seed": 1862766419,
             "version": 592,
             "versionNonce": 176671758,
@@ -7073,7 +6908,6 @@
             "groupIds": [
               "KheHDVDECtVWMFDBij-Cd"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321656,
             "fontSize": 20,
@@ -7118,7 +6952,6 @@
               "dSO0fUnW2Zw2HCw0Z0BKJ",
               "KheHDVDECtVWMFDBij-Cd"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321656,
             "index": "a1",
@@ -7152,7 +6985,6 @@
               "dSO0fUnW2Zw2HCw0Z0BKJ",
               "KheHDVDECtVWMFDBij-Cd"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321656,
             "startBinding": null,
@@ -7209,7 +7041,6 @@
               "dSO0fUnW2Zw2HCw0Z0BKJ",
               "KheHDVDECtVWMFDBij-Cd"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321656,
             "startBinding": null,
@@ -7260,7 +7091,6 @@
               "dSO0fUnW2Zw2HCw0Z0BKJ",
               "KheHDVDECtVWMFDBij-Cd"
             ],
-            "strokeSharpness": "sharp",
             "seed": 1056698141,
             "version": 617,
             "versionNonce": 1817179986,
@@ -7317,7 +7147,6 @@
               "tF_KslkF8IdB49fq-riCL",
               "w6xonJFSER2cNgSyhpsme"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321656,
             "index": "a0",
@@ -7351,7 +7180,6 @@
               "tF_KslkF8IdB49fq-riCL",
               "w6xonJFSER2cNgSyhpsme"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321656,
             "startBinding": null,
@@ -7408,7 +7236,6 @@
               "tF_KslkF8IdB49fq-riCL",
               "w6xonJFSER2cNgSyhpsme"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321656,
             "startBinding": null,
@@ -7463,7 +7290,6 @@
               "tF_KslkF8IdB49fq-riCL",
               "w6xonJFSER2cNgSyhpsme"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321656,
             "fontSize": 20,
@@ -7502,7 +7328,6 @@
               "slPhkkjk_TmWCb1wnkVAe",
               "w6xonJFSER2cNgSyhpsme"
             ],
-            "strokeSharpness": "sharp",
             "seed": 936976829,
             "version": 714,
             "versionNonce": 480281422,
@@ -7538,7 +7363,6 @@
               "slPhkkjk_TmWCb1wnkVAe",
               "w6xonJFSER2cNgSyhpsme"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321656,
             "index": "a5",
@@ -7570,7 +7394,6 @@
               "slPhkkjk_TmWCb1wnkVAe",
               "w6xonJFSER2cNgSyhpsme"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321656,
             "index": "a6",
@@ -7598,7 +7421,6 @@
               "slPhkkjk_TmWCb1wnkVAe",
               "w6xonJFSER2cNgSyhpsme"
             ],
-            "strokeSharpness": "sharp",
             "seed": 1771899453,
             "version": 707,
             "versionNonce": 1465433682,
@@ -7645,7 +7467,6 @@
               "slPhkkjk_TmWCb1wnkVAe",
               "w6xonJFSER2cNgSyhpsme"
             ],
-            "strokeSharpness": "sharp",
             "seed": 317524883,
             "version": 635,
             "versionNonce": 1985382350,
@@ -7705,7 +7526,6 @@
               "BWgHZffHCHKq8KC43hsWp",
               "BPK3N0PLaLxWjCXTIZkCz"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321658,
             "index": "a0",
@@ -7738,7 +7558,6 @@
               "BWgHZffHCHKq8KC43hsWp",
               "BPK3N0PLaLxWjCXTIZkCz"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321658,
             "startBinding": null,
@@ -7794,7 +7613,6 @@
               "BWgHZffHCHKq8KC43hsWp",
               "BPK3N0PLaLxWjCXTIZkCz"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321658,
             "startBinding": null,
@@ -7850,7 +7668,6 @@
               "BWgHZffHCHKq8KC43hsWp",
               "BPK3N0PLaLxWjCXTIZkCz"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321658,
             "startBinding": null,
@@ -7899,7 +7716,6 @@
               "BWgHZffHCHKq8KC43hsWp",
               "BPK3N0PLaLxWjCXTIZkCz"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321658,
             "startBinding": null,
@@ -7956,7 +7772,6 @@
               "BWgHZffHCHKq8KC43hsWp",
               "BPK3N0PLaLxWjCXTIZkCz"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321658,
             "index": "a5",
@@ -7990,7 +7805,6 @@
               "BWgHZffHCHKq8KC43hsWp",
               "BPK3N0PLaLxWjCXTIZkCz"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321658,
             "index": "a6",
@@ -8021,7 +7835,6 @@
             "groupIds": [
               "BPK3N0PLaLxWjCXTIZkCz"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321658,
             "fontSize": 20,
@@ -8073,7 +7886,6 @@
               "4-nXqhmq0J_iE75LityNw",
               "Wb4-n7Z51WNM0V6LKab01"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321658,
             "index": "a0",
@@ -8106,7 +7918,6 @@
               "4-nXqhmq0J_iE75LityNw",
               "Wb4-n7Z51WNM0V6LKab01"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321658,
             "startBinding": null,
@@ -8162,7 +7973,6 @@
               "4-nXqhmq0J_iE75LityNw",
               "Wb4-n7Z51WNM0V6LKab01"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321658,
             "startBinding": null,
@@ -8214,7 +8024,6 @@
               "4-nXqhmq0J_iE75LityNw",
               "Wb4-n7Z51WNM0V6LKab01"
             ],
-            "strokeSharpness": "sharp",
             "seed": 1973693971,
             "version": 621,
             "versionNonce": 177067342,
@@ -8263,7 +8072,6 @@
               "4-nXqhmq0J_iE75LityNw",
               "Wb4-n7Z51WNM0V6LKab01"
             ],
-            "strokeSharpness": "sharp",
             "seed": 1874805939,
             "version": 1056,
             "versionNonce": 232746642,
@@ -8320,7 +8128,6 @@
               "4-nXqhmq0J_iE75LityNw",
               "Wb4-n7Z51WNM0V6LKab01"
             ],
-            "strokeSharpness": "sharp",
             "seed": 558138941,
             "version": 754,
             "versionNonce": 1426193294,
@@ -8354,7 +8161,6 @@
               "4-nXqhmq0J_iE75LityNw",
               "Wb4-n7Z51WNM0V6LKab01"
             ],
-            "strokeSharpness": "sharp",
             "seed": 740384019,
             "version": 812,
             "versionNonce": 1893190738,
@@ -8385,7 +8191,6 @@
             "groupIds": [
               "Wb4-n7Z51WNM0V6LKab01"
             ],
-            "strokeSharpness": "sharp",
             "seed": 1021186525,
             "version": 587,
             "versionNonce": 43473358,
@@ -8435,7 +8240,6 @@
             "groupIds": [
               "sy9hTI1fRAE83N5QaORyI"
             ],
-            "strokeSharpness": "sharp",
             "seed": 2022152723,
             "version": 810,
             "versionNonce": 410939922,
@@ -8482,7 +8286,6 @@
               "0cpZh-rQKExX_SL41V6oX",
               "sy9hTI1fRAE83N5QaORyI"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321658,
             "index": "a1",
@@ -8514,7 +8317,6 @@
               "0cpZh-rQKExX_SL41V6oX",
               "sy9hTI1fRAE83N5QaORyI"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321658,
             "index": "a2",
@@ -8546,7 +8348,6 @@
               "0cpZh-rQKExX_SL41V6oX",
               "sy9hTI1fRAE83N5QaORyI"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321658,
             "fontSize": 20,
@@ -8586,7 +8387,6 @@
               "0cpZh-rQKExX_SL41V6oX",
               "sy9hTI1fRAE83N5QaORyI"
             ],
-            "strokeSharpness": "sharp",
             "seed": 483713011,
             "version": 1393,
             "versionNonce": 1255314834,
@@ -8623,7 +8423,6 @@
               "0cpZh-rQKExX_SL41V6oX",
               "sy9hTI1fRAE83N5QaORyI"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321658,
             "index": "a5",
@@ -8652,7 +8451,6 @@
               "0cpZh-rQKExX_SL41V6oX",
               "sy9hTI1fRAE83N5QaORyI"
             ],
-            "strokeSharpness": "sharp",
             "seed": 1425685491,
             "version": 1443,
             "versionNonce": 315495250,
@@ -8689,7 +8487,6 @@
               "0cpZh-rQKExX_SL41V6oX",
               "sy9hTI1fRAE83N5QaORyI"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321658,
             "index": "a7",
@@ -8722,7 +8519,6 @@
               "0cpZh-rQKExX_SL41V6oX",
               "sy9hTI1fRAE83N5QaORyI"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321658,
             "index": "a8",
@@ -8755,7 +8551,6 @@
               "0cpZh-rQKExX_SL41V6oX",
               "sy9hTI1fRAE83N5QaORyI"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321658,
             "index": "a9",
@@ -8788,7 +8583,6 @@
               "0cpZh-rQKExX_SL41V6oX",
               "sy9hTI1fRAE83N5QaORyI"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321658,
             "index": "aA",
@@ -8821,7 +8615,6 @@
               "0cpZh-rQKExX_SL41V6oX",
               "sy9hTI1fRAE83N5QaORyI"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321658,
             "index": "aB",
@@ -8854,7 +8647,6 @@
               "0cpZh-rQKExX_SL41V6oX",
               "sy9hTI1fRAE83N5QaORyI"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321658,
             "index": "aC",
@@ -8887,7 +8679,6 @@
               "0cpZh-rQKExX_SL41V6oX",
               "sy9hTI1fRAE83N5QaORyI"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321658,
             "index": "aD",
@@ -8922,7 +8713,6 @@
             "groupIds": [
               "1PZ51e8o9XvaTJClkW7_Y"
             ],
-            "strokeSharpness": "sharp",
             "seed": 1007914739,
             "version": 784,
             "versionNonce": 1877531218,
@@ -8969,7 +8759,6 @@
               "QE68nl4kdmd-ONsCDIa3Z",
               "1PZ51e8o9XvaTJClkW7_Y"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321659,
             "index": "a1",
@@ -9001,7 +8790,6 @@
               "QE68nl4kdmd-ONsCDIa3Z",
               "1PZ51e8o9XvaTJClkW7_Y"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321659,
             "index": "a2",
@@ -9033,7 +8821,6 @@
               "QE68nl4kdmd-ONsCDIa3Z",
               "1PZ51e8o9XvaTJClkW7_Y"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321659,
             "fontSize": 20,
@@ -9073,7 +8860,6 @@
               "QE68nl4kdmd-ONsCDIa3Z",
               "1PZ51e8o9XvaTJClkW7_Y"
             ],
-            "strokeSharpness": "sharp",
             "seed": 424473107,
             "version": 911,
             "versionNonce": 611315154,
@@ -9121,7 +8907,6 @@
               "QE68nl4kdmd-ONsCDIa3Z",
               "1PZ51e8o9XvaTJClkW7_Y"
             ],
-            "strokeSharpness": "sharp",
             "seed": 1428000605,
             "version": 933,
             "versionNonce": 220991566,
@@ -9169,7 +8954,6 @@
               "QE68nl4kdmd-ONsCDIa3Z",
               "1PZ51e8o9XvaTJClkW7_Y"
             ],
-            "strokeSharpness": "round",
             "seed": 214712829,
             "version": 1332,
             "versionNonce": 932602770,
@@ -9275,7 +9059,6 @@
               "QE68nl4kdmd-ONsCDIa3Z",
               "1PZ51e8o9XvaTJClkW7_Y"
             ],
-            "strokeSharpness": "sharp",
             "seed": 2097223731,
             "version": 1055,
             "versionNonce": 2116081294,
@@ -9312,7 +9095,6 @@
               "QE68nl4kdmd-ONsCDIa3Z",
               "1PZ51e8o9XvaTJClkW7_Y"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321659,
             "index": "a8",
@@ -9351,7 +9133,6 @@
             "groupIds": [
               "YvuKtqNiQqxspi1qnVy6O"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321659,
             "fontSize": 20,
@@ -9394,7 +9175,6 @@
               "N3QsuZtq_qU6fy44RgsbR",
               "YvuKtqNiQqxspi1qnVy6O"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321659,
             "index": "a1",
@@ -9426,7 +9206,6 @@
               "N3QsuZtq_qU6fy44RgsbR",
               "YvuKtqNiQqxspi1qnVy6O"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321659,
             "index": "a2",
@@ -9458,7 +9237,6 @@
               "N3QsuZtq_qU6fy44RgsbR",
               "YvuKtqNiQqxspi1qnVy6O"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321659,
             "fontSize": 20,
@@ -9497,7 +9275,6 @@
               "N3QsuZtq_qU6fy44RgsbR",
               "YvuKtqNiQqxspi1qnVy6O"
             ],
-            "strokeSharpness": "round",
             "seed": 1272979251,
             "version": 836,
             "versionNonce": 1485994318,
@@ -9662,7 +9439,6 @@
               "N3QsuZtq_qU6fy44RgsbR",
               "YvuKtqNiQqxspi1qnVy6O"
             ],
-            "strokeSharpness": "round",
             "seed": 1464158717,
             "version": 564,
             "versionNonce": 182913682,
@@ -9766,7 +9542,6 @@
             "groupIds": [
               "nQbsa-xNdDdwbvRngICwH"
             ],
-            "strokeSharpness": "sharp",
             "seed": 312135549,
             "version": 613,
             "versionNonce": 1121066894,
@@ -9813,7 +9588,6 @@
               "kmD6Z31zzPrlDPpj-1mL5",
               "nQbsa-xNdDdwbvRngICwH"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321659,
             "index": "a1",
@@ -9845,7 +9619,6 @@
               "kmD6Z31zzPrlDPpj-1mL5",
               "nQbsa-xNdDdwbvRngICwH"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321659,
             "index": "a2",
@@ -9877,7 +9650,6 @@
               "kmD6Z31zzPrlDPpj-1mL5",
               "nQbsa-xNdDdwbvRngICwH"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321659,
             "fontSize": 20,
@@ -9921,7 +9693,6 @@
               "kmD6Z31zzPrlDPpj-1mL5",
               "nQbsa-xNdDdwbvRngICwH"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321659,
             "index": "a4",
@@ -9950,7 +9721,6 @@
               "kmD6Z31zzPrlDPpj-1mL5",
               "nQbsa-xNdDdwbvRngICwH"
             ],
-            "strokeSharpness": "sharp",
             "seed": 1506977917,
             "version": 756,
             "versionNonce": 1478982610,
@@ -9994,7 +9764,6 @@
               "WQEejS2HgPWiof50TiNak",
               "mfCfeXnhzGbQdyXHZATH9"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321659,
             "index": "a0",
@@ -10026,7 +9795,6 @@
               "WQEejS2HgPWiof50TiNak",
               "mfCfeXnhzGbQdyXHZATH9"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321659,
             "index": "a1",
@@ -10058,7 +9826,6 @@
               "WQEejS2HgPWiof50TiNak",
               "mfCfeXnhzGbQdyXHZATH9"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321659,
             "fontSize": 20,
@@ -10098,7 +9865,6 @@
               "WQEejS2HgPWiof50TiNak",
               "mfCfeXnhzGbQdyXHZATH9"
             ],
-            "strokeSharpness": "sharp",
             "seed": 2129780787,
             "version": 895,
             "versionNonce": 1804873554,
@@ -10158,7 +9924,6 @@
               "WQEejS2HgPWiof50TiNak",
               "mfCfeXnhzGbQdyXHZATH9"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321659,
             "startBinding": null,
@@ -10214,7 +9979,6 @@
               "WQEejS2HgPWiof50TiNak",
               "mfCfeXnhzGbQdyXHZATH9"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321659,
             "startBinding": null,
@@ -10270,7 +10034,6 @@
               "WQEejS2HgPWiof50TiNak",
               "mfCfeXnhzGbQdyXHZATH9"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321659,
             "startBinding": null,
@@ -10326,7 +10089,6 @@
               "WQEejS2HgPWiof50TiNak",
               "mfCfeXnhzGbQdyXHZATH9"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321659,
             "startBinding": null,
@@ -10376,7 +10138,6 @@
             "groupIds": [
               "mfCfeXnhzGbQdyXHZATH9"
             ],
-            "strokeSharpness": "sharp",
             "seed": 1137239507,
             "version": 630,
             "versionNonce": 1554631502,
@@ -10426,7 +10187,6 @@
             "groupIds": [
               "eoTy7ewF0WwgyuJCEyyVk"
             ],
-            "strokeSharpness": "round",
             "seed": 793972915,
             "version": 628,
             "versionNonce": 1948637330,
@@ -10475,7 +10235,6 @@
               "Bzk-Pgjf8X47e80r3vjQ_",
               "eoTy7ewF0WwgyuJCEyyVk"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321660,
             "index": "a1",
@@ -10507,7 +10266,6 @@
               "Bzk-Pgjf8X47e80r3vjQ_",
               "eoTy7ewF0WwgyuJCEyyVk"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321660,
             "index": "a2",
@@ -10539,7 +10297,6 @@
               "Bzk-Pgjf8X47e80r3vjQ_",
               "eoTy7ewF0WwgyuJCEyyVk"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321660,
             "fontSize": 20,
@@ -10579,7 +10336,6 @@
               "Bzk-Pgjf8X47e80r3vjQ_",
               "eoTy7ewF0WwgyuJCEyyVk"
             ],
-            "strokeSharpness": "sharp",
             "seed": 34081885,
             "version": 701,
             "versionNonce": 2075286546,
@@ -10627,7 +10383,6 @@
               "Bzk-Pgjf8X47e80r3vjQ_",
               "eoTy7ewF0WwgyuJCEyyVk"
             ],
-            "strokeSharpness": "round",
             "seed": 1292830611,
             "version": 1257,
             "versionNonce": 339650062,
@@ -10701,7 +10456,6 @@
               "Bzk-Pgjf8X47e80r3vjQ_",
               "eoTy7ewF0WwgyuJCEyyVk"
             ],
-            "strokeSharpness": "round",
             "seed": 249610845,
             "version": 708,
             "versionNonce": 1357973970,
@@ -10740,7 +10494,6 @@
               "Bzk-Pgjf8X47e80r3vjQ_",
               "eoTy7ewF0WwgyuJCEyyVk"
             ],
-            "strokeSharpness": "round",
             "boundElements": [],
             "updated": 1744839321660,
             "index": "a7",
@@ -10775,7 +10528,6 @@
               "Bzk-Pgjf8X47e80r3vjQ_",
               "eoTy7ewF0WwgyuJCEyyVk"
             ],
-            "strokeSharpness": "round",
             "boundElements": [],
             "updated": 1744839321660,
             "index": "a8",
@@ -10810,7 +10562,6 @@
               "Bzk-Pgjf8X47e80r3vjQ_",
               "eoTy7ewF0WwgyuJCEyyVk"
             ],
-            "strokeSharpness": "round",
             "boundElements": [],
             "updated": 1744839321660,
             "index": "a9",
@@ -10845,7 +10596,6 @@
               "Bzk-Pgjf8X47e80r3vjQ_",
               "eoTy7ewF0WwgyuJCEyyVk"
             ],
-            "strokeSharpness": "round",
             "boundElements": [],
             "updated": 1744839321660,
             "index": "aA",
@@ -10887,7 +10637,6 @@
               "Q9qgQ6E0ak1tObzzyu8gX",
               "BIV-NhDeU-bYnmhz-qwax"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321660,
             "index": "a0",
@@ -10919,7 +10668,6 @@
               "Q9qgQ6E0ak1tObzzyu8gX",
               "BIV-NhDeU-bYnmhz-qwax"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321660,
             "index": "a1",
@@ -10951,7 +10699,6 @@
               "Q9qgQ6E0ak1tObzzyu8gX",
               "BIV-NhDeU-bYnmhz-qwax"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321660,
             "fontSize": 20,
@@ -10991,7 +10738,6 @@
               "Q9qgQ6E0ak1tObzzyu8gX",
               "BIV-NhDeU-bYnmhz-qwax"
             ],
-            "strokeSharpness": "round",
             "seed": 1056164925,
             "version": 894,
             "versionNonce": 1268551890,
@@ -11045,7 +10791,6 @@
               "Q9qgQ6E0ak1tObzzyu8gX",
               "BIV-NhDeU-bYnmhz-qwax"
             ],
-            "strokeSharpness": "round",
             "boundElements": [],
             "updated": 1744839321660,
             "startBinding": null,
@@ -11091,7 +10836,6 @@
               "Q9qgQ6E0ak1tObzzyu8gX",
               "BIV-NhDeU-bYnmhz-qwax"
             ],
-            "strokeSharpness": "sharp",
             "seed": 1533995229,
             "version": 907,
             "versionNonce": 926328466,
@@ -11151,7 +10895,6 @@
               "Q9qgQ6E0ak1tObzzyu8gX",
               "BIV-NhDeU-bYnmhz-qwax"
             ],
-            "strokeSharpness": "sharp",
             "seed": 757575219,
             "version": 888,
             "versionNonce": 2044347278,
@@ -11188,7 +10931,6 @@
               "Q9qgQ6E0ak1tObzzyu8gX",
               "BIV-NhDeU-bYnmhz-qwax"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321660,
             "index": "a7",
@@ -11215,7 +10957,6 @@
             "groupIds": [
               "BIV-NhDeU-bYnmhz-qwax"
             ],
-            "strokeSharpness": "sharp",
             "seed": 2107434803,
             "version": 627,
             "versionNonce": 1965466062,
@@ -11265,7 +11006,6 @@
             "groupIds": [
               "PlDNIXA9ID_RAIoP33PYT"
             ],
-            "strokeSharpness": "round",
             "seed": 433337853,
             "version": 641,
             "versionNonce": 1332193810,
@@ -11314,7 +11054,6 @@
               "BPSnTXuiRKE9XEdfP1D7c",
               "PlDNIXA9ID_RAIoP33PYT"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321660,
             "index": "a1",
@@ -11346,7 +11085,6 @@
               "BPSnTXuiRKE9XEdfP1D7c",
               "PlDNIXA9ID_RAIoP33PYT"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321660,
             "index": "a2",
@@ -11378,7 +11116,6 @@
               "BPSnTXuiRKE9XEdfP1D7c",
               "PlDNIXA9ID_RAIoP33PYT"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321660,
             "fontSize": 20,
@@ -11418,7 +11155,6 @@
               "BPSnTXuiRKE9XEdfP1D7c",
               "PlDNIXA9ID_RAIoP33PYT"
             ],
-            "strokeSharpness": "sharp",
             "seed": 2143148157,
             "version": 937,
             "versionNonce": 1389219218,
@@ -11470,7 +11206,6 @@
               "BPSnTXuiRKE9XEdfP1D7c",
               "PlDNIXA9ID_RAIoP33PYT"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321660,
             "startBinding": null,
@@ -11514,7 +11249,6 @@
               "BPSnTXuiRKE9XEdfP1D7c",
               "PlDNIXA9ID_RAIoP33PYT"
             ],
-            "strokeSharpness": "sharp",
             "seed": 107848275,
             "version": 776,
             "versionNonce": 1721912146,
@@ -11562,7 +11296,6 @@
               "BPSnTXuiRKE9XEdfP1D7c",
               "PlDNIXA9ID_RAIoP33PYT"
             ],
-            "strokeSharpness": "sharp",
             "seed": 968218973,
             "version": 756,
             "versionNonce": 66603726,
@@ -11610,7 +11343,6 @@
               "BPSnTXuiRKE9XEdfP1D7c",
               "PlDNIXA9ID_RAIoP33PYT"
             ],
-            "strokeSharpness": "sharp",
             "seed": 185885085,
             "version": 919,
             "versionNonce": 245436690,
@@ -11664,7 +11396,6 @@
             "groupIds": [
               "pzj5n8ddzl3ee3LdoMHZw"
             ],
-            "strokeSharpness": "sharp",
             "seed": 1836630195,
             "version": 764,
             "versionNonce": 1954660622,
@@ -11711,7 +11442,6 @@
               "4RDSYDmqcLNULEHaIXbkI",
               "pzj5n8ddzl3ee3LdoMHZw"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321661,
             "index": "a1",
@@ -11743,7 +11473,6 @@
               "4RDSYDmqcLNULEHaIXbkI",
               "pzj5n8ddzl3ee3LdoMHZw"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321661,
             "index": "a2",
@@ -11775,7 +11504,6 @@
               "4RDSYDmqcLNULEHaIXbkI",
               "pzj5n8ddzl3ee3LdoMHZw"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321661,
             "fontSize": 20,
@@ -11814,7 +11542,6 @@
               "4RDSYDmqcLNULEHaIXbkI",
               "pzj5n8ddzl3ee3LdoMHZw"
             ],
-            "strokeSharpness": "sharp",
             "seed": 476661491,
             "version": 773,
             "versionNonce": 2111001998,
@@ -11846,7 +11573,6 @@
               "4RDSYDmqcLNULEHaIXbkI",
               "pzj5n8ddzl3ee3LdoMHZw"
             ],
-            "strokeSharpness": "sharp",
             "seed": 2143721277,
             "version": 944,
             "versionNonce": 2078347858,
@@ -11913,7 +11639,6 @@
               "-cNFS9_eU_mtPdoTmvbP_",
               "sbzTlNAbIhW8Zig0Ln_ch"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321661,
             "index": "a0",
@@ -11945,7 +11670,6 @@
               "-cNFS9_eU_mtPdoTmvbP_",
               "sbzTlNAbIhW8Zig0Ln_ch"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321661,
             "index": "a1",
@@ -11977,7 +11701,6 @@
               "-cNFS9_eU_mtPdoTmvbP_",
               "sbzTlNAbIhW8Zig0Ln_ch"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321661,
             "fontSize": 20,
@@ -12016,7 +11739,6 @@
               "-cNFS9_eU_mtPdoTmvbP_",
               "sbzTlNAbIhW8Zig0Ln_ch"
             ],
-            "strokeSharpness": "sharp",
             "seed": 1372244541,
             "version": 919,
             "versionNonce": 1236936146,
@@ -12048,7 +11770,6 @@
               "-cNFS9_eU_mtPdoTmvbP_",
               "sbzTlNAbIhW8Zig0Ln_ch"
             ],
-            "strokeSharpness": "sharp",
             "seed": 1975005683,
             "version": 862,
             "versionNonce": 1656838222,
@@ -12079,7 +11800,6 @@
             "groupIds": [
               "sbzTlNAbIhW8Zig0Ln_ch"
             ],
-            "strokeSharpness": "sharp",
             "seed": 1340366995,
             "version": 738,
             "versionNonce": 651795346,
@@ -12129,7 +11849,6 @@
             "groupIds": [
               "4EIRnGQxtWZXfFQkEPcO9"
             ],
-            "strokeSharpness": "sharp",
             "seed": 740819955,
             "version": 806,
             "versionNonce": 30219918,
@@ -12176,7 +11895,6 @@
               "0Cpq1GFqFB7hWuj4tVjft",
               "4EIRnGQxtWZXfFQkEPcO9"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321661,
             "index": "a1",
@@ -12208,7 +11926,6 @@
               "0Cpq1GFqFB7hWuj4tVjft",
               "4EIRnGQxtWZXfFQkEPcO9"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321661,
             "index": "a2",
@@ -12240,7 +11957,6 @@
               "0Cpq1GFqFB7hWuj4tVjft",
               "4EIRnGQxtWZXfFQkEPcO9"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321661,
             "fontSize": 20,
@@ -12279,7 +11995,6 @@
               "0Cpq1GFqFB7hWuj4tVjft",
               "4EIRnGQxtWZXfFQkEPcO9"
             ],
-            "strokeSharpness": "round",
             "seed": 685941907,
             "version": 2472,
             "versionNonce": 1661293326,
@@ -12348,7 +12063,6 @@
               "0Cpq1GFqFB7hWuj4tVjft",
               "4EIRnGQxtWZXfFQkEPcO9"
             ],
-            "strokeSharpness": "sharp",
             "seed": 1380150387,
             "version": 1452,
             "versionNonce": 955755730,
@@ -12402,7 +12116,6 @@
             "groupIds": [
               "OdyEFbxThIHkBSrj7-xpe"
             ],
-            "strokeSharpness": "sharp",
             "seed": 2026537597,
             "version": 757,
             "versionNonce": 893632846,
@@ -12449,7 +12162,6 @@
               "k0y-jNEUEq-FXbrbboLak",
               "OdyEFbxThIHkBSrj7-xpe"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321661,
             "index": "a1",
@@ -12481,7 +12193,6 @@
               "k0y-jNEUEq-FXbrbboLak",
               "OdyEFbxThIHkBSrj7-xpe"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321661,
             "index": "a2",
@@ -12513,7 +12224,6 @@
               "k0y-jNEUEq-FXbrbboLak",
               "OdyEFbxThIHkBSrj7-xpe"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321661,
             "fontSize": 20,
@@ -12553,7 +12263,6 @@
               "k0y-jNEUEq-FXbrbboLak",
               "OdyEFbxThIHkBSrj7-xpe"
             ],
-            "strokeSharpness": "sharp",
             "seed": 871147571,
             "version": 1145,
             "versionNonce": 1371686350,
@@ -12586,7 +12295,6 @@
               "k0y-jNEUEq-FXbrbboLak",
               "OdyEFbxThIHkBSrj7-xpe"
             ],
-            "strokeSharpness": "sharp",
             "seed": 1700618099,
             "version": 1702,
             "versionNonce": 1455965714,
@@ -12646,7 +12354,6 @@
               "k0y-jNEUEq-FXbrbboLak",
               "OdyEFbxThIHkBSrj7-xpe"
             ],
-            "strokeSharpness": "round",
             "seed": 590118077,
             "version": 1676,
             "versionNonce": 223632398,
@@ -12714,7 +12421,6 @@
             "groupIds": [
               "fIe1fSJvykJL9ZBN4ggGS"
             ],
-            "strokeSharpness": "sharp",
             "seed": 1482906131,
             "version": 916,
             "versionNonce": 1706669010,
@@ -12761,7 +12467,6 @@
               "kMPhhFsK6GrmSAVh11WNu",
               "fIe1fSJvykJL9ZBN4ggGS"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321662,
             "index": "a1",
@@ -12793,7 +12498,6 @@
               "kMPhhFsK6GrmSAVh11WNu",
               "fIe1fSJvykJL9ZBN4ggGS"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321662,
             "index": "a2",
@@ -12825,7 +12529,6 @@
               "kMPhhFsK6GrmSAVh11WNu",
               "fIe1fSJvykJL9ZBN4ggGS"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321662,
             "fontSize": 20,
@@ -12865,7 +12568,6 @@
               "kMPhhFsK6GrmSAVh11WNu",
               "fIe1fSJvykJL9ZBN4ggGS"
             ],
-            "strokeSharpness": "sharp",
             "seed": 218827795,
             "version": 1074,
             "versionNonce": 1945659218,
@@ -12898,7 +12600,6 @@
               "kMPhhFsK6GrmSAVh11WNu",
               "fIe1fSJvykJL9ZBN4ggGS"
             ],
-            "strokeSharpness": "sharp",
             "seed": 513151411,
             "version": 1400,
             "versionNonce": 866250446,
@@ -12935,7 +12636,6 @@
               "kMPhhFsK6GrmSAVh11WNu",
               "fIe1fSJvykJL9ZBN4ggGS"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321662,
             "index": "a6",
@@ -12968,7 +12668,6 @@
               "kMPhhFsK6GrmSAVh11WNu",
               "fIe1fSJvykJL9ZBN4ggGS"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321662,
             "index": "a7",
@@ -13001,7 +12700,6 @@
               "kMPhhFsK6GrmSAVh11WNu",
               "fIe1fSJvykJL9ZBN4ggGS"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321662,
             "index": "a8",
@@ -13034,7 +12732,6 @@
               "kMPhhFsK6GrmSAVh11WNu",
               "fIe1fSJvykJL9ZBN4ggGS"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321662,
             "index": "a9",
@@ -13067,7 +12764,6 @@
               "kMPhhFsK6GrmSAVh11WNu",
               "fIe1fSJvykJL9ZBN4ggGS"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321662,
             "index": "aA",
@@ -13100,7 +12796,6 @@
               "kMPhhFsK6GrmSAVh11WNu",
               "fIe1fSJvykJL9ZBN4ggGS"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321662,
             "index": "aB",
@@ -13133,7 +12828,6 @@
               "kMPhhFsK6GrmSAVh11WNu",
               "fIe1fSJvykJL9ZBN4ggGS"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321662,
             "index": "aC",
@@ -13166,7 +12860,6 @@
               "kMPhhFsK6GrmSAVh11WNu",
               "fIe1fSJvykJL9ZBN4ggGS"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321662,
             "index": "aD",
@@ -13199,7 +12892,6 @@
               "kMPhhFsK6GrmSAVh11WNu",
               "fIe1fSJvykJL9ZBN4ggGS"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321662,
             "index": "aE",
@@ -13228,7 +12920,6 @@
               "kMPhhFsK6GrmSAVh11WNu",
               "fIe1fSJvykJL9ZBN4ggGS"
             ],
-            "strokeSharpness": "sharp",
             "seed": 1203520157,
             "version": 1054,
             "versionNonce": 1531768334,
@@ -13265,7 +12956,6 @@
               "kMPhhFsK6GrmSAVh11WNu",
               "fIe1fSJvykJL9ZBN4ggGS"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321662,
             "index": "aG",
@@ -13305,7 +12995,6 @@
               "VN-W9crE9yih9DhBbEEP1",
               "EczlG37TNnMyrAHGXpKaW"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321662,
             "index": "a0",
@@ -13337,7 +13026,6 @@
               "VN-W9crE9yih9DhBbEEP1",
               "EczlG37TNnMyrAHGXpKaW"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321662,
             "index": "a1",
@@ -13369,7 +13057,6 @@
               "VN-W9crE9yih9DhBbEEP1",
               "EczlG37TNnMyrAHGXpKaW"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321662,
             "fontSize": 20,
@@ -13409,7 +13096,6 @@
               "VN-W9crE9yih9DhBbEEP1",
               "EczlG37TNnMyrAHGXpKaW"
             ],
-            "strokeSharpness": "sharp",
             "seed": 856270771,
             "version": 1187,
             "versionNonce": 612267346,
@@ -13442,7 +13128,6 @@
               "VN-W9crE9yih9DhBbEEP1",
               "EczlG37TNnMyrAHGXpKaW"
             ],
-            "strokeSharpness": "sharp",
             "seed": 1258749235,
             "version": 1667,
             "versionNonce": 1087094990,
@@ -13479,7 +13164,6 @@
               "VN-W9crE9yih9DhBbEEP1",
               "EczlG37TNnMyrAHGXpKaW"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321662,
             "index": "a5",
@@ -13512,7 +13196,6 @@
               "VN-W9crE9yih9DhBbEEP1",
               "EczlG37TNnMyrAHGXpKaW"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321662,
             "index": "a6",
@@ -13545,7 +13228,6 @@
               "VN-W9crE9yih9DhBbEEP1",
               "EczlG37TNnMyrAHGXpKaW"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321662,
             "index": "a7",
@@ -13578,7 +13260,6 @@
               "VN-W9crE9yih9DhBbEEP1",
               "EczlG37TNnMyrAHGXpKaW"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321662,
             "index": "a8",
@@ -13605,7 +13286,6 @@
             "groupIds": [
               "EczlG37TNnMyrAHGXpKaW"
             ],
-            "strokeSharpness": "sharp",
             "seed": 2065584445,
             "version": 549,
             "versionNonce": 1571675794,
@@ -13655,7 +13335,6 @@
             "groupIds": [
               "fbZtr6fjfbaiZ8SkpuBP8"
             ],
-            "strokeSharpness": "round",
             "seed": 1641188915,
             "version": 566,
             "versionNonce": 59935630,
@@ -13704,7 +13383,6 @@
               "E_Q17OEz_rINVg0g9FotI",
               "fbZtr6fjfbaiZ8SkpuBP8"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321662,
             "index": "a1",
@@ -13736,7 +13414,6 @@
               "E_Q17OEz_rINVg0g9FotI",
               "fbZtr6fjfbaiZ8SkpuBP8"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321662,
             "index": "a2",
@@ -13768,7 +13445,6 @@
               "E_Q17OEz_rINVg0g9FotI",
               "fbZtr6fjfbaiZ8SkpuBP8"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321662,
             "fontSize": 20,
@@ -13808,7 +13484,6 @@
               "E_Q17OEz_rINVg0g9FotI",
               "fbZtr6fjfbaiZ8SkpuBP8"
             ],
-            "strokeSharpness": "sharp",
             "seed": 1634482781,
             "version": 849,
             "versionNonce": 437485582,
@@ -13845,7 +13520,6 @@
               "E_Q17OEz_rINVg0g9FotI",
               "fbZtr6fjfbaiZ8SkpuBP8"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321662,
             "index": "a5",
@@ -13878,7 +13552,6 @@
               "E_Q17OEz_rINVg0g9FotI",
               "fbZtr6fjfbaiZ8SkpuBP8"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321662,
             "index": "a6",
@@ -13911,7 +13584,6 @@
               "E_Q17OEz_rINVg0g9FotI",
               "fbZtr6fjfbaiZ8SkpuBP8"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321662,
             "index": "a7",
@@ -13946,7 +13618,6 @@
             "groupIds": [
               "HY4XY5o7I8dy-VJxP4dJH"
             ],
-            "strokeSharpness": "round",
             "seed": 2089643229,
             "version": 597,
             "versionNonce": 1262572686,
@@ -13995,7 +13666,6 @@
               "sWlpTUBOrG8JcusJU9fft",
               "HY4XY5o7I8dy-VJxP4dJH"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321662,
             "index": "a1",
@@ -14027,7 +13697,6 @@
               "sWlpTUBOrG8JcusJU9fft",
               "HY4XY5o7I8dy-VJxP4dJH"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321662,
             "index": "a2",
@@ -14059,7 +13728,6 @@
               "sWlpTUBOrG8JcusJU9fft",
               "HY4XY5o7I8dy-VJxP4dJH"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321662,
             "fontSize": 20,
@@ -14099,7 +13767,6 @@
               "sWlpTUBOrG8JcusJU9fft",
               "HY4XY5o7I8dy-VJxP4dJH"
             ],
-            "strokeSharpness": "round",
             "seed": 1277977149,
             "version": 648,
             "versionNonce": 962857230,
@@ -14153,7 +13820,6 @@
               "sWlpTUBOrG8JcusJU9fft",
               "HY4XY5o7I8dy-VJxP4dJH"
             ],
-            "strokeSharpness": "round",
             "boundElements": [],
             "updated": 1744839321662,
             "startBinding": null,
@@ -14203,7 +13869,6 @@
               "sWlpTUBOrG8JcusJU9fft",
               "HY4XY5o7I8dy-VJxP4dJH"
             ],
-            "strokeSharpness": "round",
             "boundElements": [],
             "updated": 1744839321662,
             "startBinding": null,
@@ -14253,7 +13918,6 @@
               "sWlpTUBOrG8JcusJU9fft",
               "HY4XY5o7I8dy-VJxP4dJH"
             ],
-            "strokeSharpness": "round",
             "boundElements": [],
             "updated": 1744839321662,
             "startBinding": null,
@@ -14305,7 +13969,6 @@
             "groupIds": [
               "6Y5draFl3Vf12YqIEJS7q"
             ],
-            "strokeSharpness": "sharp",
             "seed": 2099763293,
             "version": 950,
             "versionNonce": 348364174,
@@ -14352,7 +14015,6 @@
               "vu6GbHEkE8kEjTHtDsXfa",
               "6Y5draFl3Vf12YqIEJS7q"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321663,
             "index": "a1",
@@ -14384,7 +14046,6 @@
               "vu6GbHEkE8kEjTHtDsXfa",
               "6Y5draFl3Vf12YqIEJS7q"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321663,
             "index": "a2",
@@ -14416,7 +14077,6 @@
               "vu6GbHEkE8kEjTHtDsXfa",
               "6Y5draFl3Vf12YqIEJS7q"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321663,
             "fontSize": 20,
@@ -14455,7 +14115,6 @@
               "vu6GbHEkE8kEjTHtDsXfa",
               "6Y5draFl3Vf12YqIEJS7q"
             ],
-            "strokeSharpness": "round",
             "seed": 1159994931,
             "version": 3343,
             "versionNonce": 463999502,
@@ -14531,7 +14190,6 @@
             "groupIds": [
               "FqBScz2kZYrU_MdCSZayA"
             ],
-            "strokeSharpness": "sharp",
             "seed": 683103165,
             "version": 789,
             "versionNonce": 1612996050,
@@ -14578,7 +14236,6 @@
               "qdydPm8UlXlV9o_Njndfy",
               "FqBScz2kZYrU_MdCSZayA"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321663,
             "index": "a1",
@@ -14610,7 +14267,6 @@
               "qdydPm8UlXlV9o_Njndfy",
               "FqBScz2kZYrU_MdCSZayA"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321663,
             "index": "a2",
@@ -14642,7 +14298,6 @@
               "qdydPm8UlXlV9o_Njndfy",
               "FqBScz2kZYrU_MdCSZayA"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321663,
             "fontSize": 20,
@@ -14682,7 +14337,6 @@
               "qdydPm8UlXlV9o_Njndfy",
               "FqBScz2kZYrU_MdCSZayA"
             ],
-            "strokeSharpness": "round",
             "seed": 833789907,
             "version": 2411,
             "versionNonce": 1598067026,
@@ -14756,7 +14410,6 @@
               "qdydPm8UlXlV9o_Njndfy",
               "FqBScz2kZYrU_MdCSZayA"
             ],
-            "strokeSharpness": "round",
             "boundElements": [],
             "updated": 1744839321663,
             "startBinding": null,
@@ -14826,7 +14479,6 @@
               "qdydPm8UlXlV9o_Njndfy",
               "FqBScz2kZYrU_MdCSZayA"
             ],
-            "strokeSharpness": "round",
             "boundElements": [],
             "updated": 1744839321663,
             "startBinding": null,
@@ -14903,7 +14555,6 @@
               "Bp7gytMcHGpxWm-Tyxkvs",
               "MsurWRsuDrsDxnie2qyLM"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321664,
             "index": "a0",
@@ -14935,7 +14586,6 @@
               "Bp7gytMcHGpxWm-Tyxkvs",
               "MsurWRsuDrsDxnie2qyLM"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321664,
             "index": "a1",
@@ -14963,7 +14613,6 @@
               "Bp7gytMcHGpxWm-Tyxkvs",
               "MsurWRsuDrsDxnie2qyLM"
             ],
-            "strokeSharpness": "sharp",
             "seed": 134140029,
             "version": 1221,
             "versionNonce": 1389693262,
@@ -15010,7 +14659,6 @@
               "Bp7gytMcHGpxWm-Tyxkvs",
               "MsurWRsuDrsDxnie2qyLM"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321664,
             "index": "a3",
@@ -15042,7 +14690,6 @@
               "Bp7gytMcHGpxWm-Tyxkvs",
               "MsurWRsuDrsDxnie2qyLM"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321664,
             "index": "a4",
@@ -15074,7 +14721,6 @@
               "Bp7gytMcHGpxWm-Tyxkvs",
               "MsurWRsuDrsDxnie2qyLM"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321664,
             "index": "a5",
@@ -15102,7 +14748,6 @@
               "Bp7gytMcHGpxWm-Tyxkvs",
               "MsurWRsuDrsDxnie2qyLM"
             ],
-            "strokeSharpness": "round",
             "seed": 234152317,
             "version": 6005,
             "versionNonce": 564235726,
@@ -15179,7 +14824,6 @@
               "Bp7gytMcHGpxWm-Tyxkvs",
               "MsurWRsuDrsDxnie2qyLM"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321664,
             "index": "a7",
@@ -15206,7 +14850,6 @@
             "groupIds": [
               "MsurWRsuDrsDxnie2qyLM"
             ],
-            "strokeSharpness": "sharp",
             "seed": 412545427,
             "version": 958,
             "versionNonce": 839558158,
@@ -15256,7 +14899,6 @@
             "groupIds": [
               "JXigCmNMo2omRATPAdWg2"
             ],
-            "strokeSharpness": "round",
             "seed": 1466145043,
             "version": 609,
             "versionNonce": 1147923410,
@@ -15305,7 +14947,6 @@
               "hVQ9b__kOJKIKyTHkWDCe",
               "JXigCmNMo2omRATPAdWg2"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321664,
             "index": "a1",
@@ -15337,7 +14978,6 @@
               "hVQ9b__kOJKIKyTHkWDCe",
               "JXigCmNMo2omRATPAdWg2"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321664,
             "index": "a2",
@@ -15369,7 +15009,6 @@
               "hVQ9b__kOJKIKyTHkWDCe",
               "JXigCmNMo2omRATPAdWg2"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321664,
             "fontSize": 20,
@@ -15409,7 +15048,6 @@
               "hVQ9b__kOJKIKyTHkWDCe",
               "JXigCmNMo2omRATPAdWg2"
             ],
-            "strokeSharpness": "round",
             "seed": 1209347571,
             "version": 716,
             "versionNonce": 92053330,
@@ -15444,7 +15082,6 @@
               "hVQ9b__kOJKIKyTHkWDCe",
               "JXigCmNMo2omRATPAdWg2"
             ],
-            "strokeSharpness": "sharp",
             "seed": 2058109331,
             "version": 3332,
             "versionNonce": 362624718,
@@ -15512,7 +15149,6 @@
               "hVQ9b__kOJKIKyTHkWDCe",
               "JXigCmNMo2omRATPAdWg2"
             ],
-            "strokeSharpness": "round",
             "seed": 1011057203,
             "version": 1022,
             "versionNonce": 118547730,
@@ -15580,7 +15216,6 @@
             "groupIds": [
               "lSUWKFLgnqhUpcIKW7Hmy"
             ],
-            "strokeSharpness": "sharp",
             "seed": 3826451,
             "version": 1011,
             "versionNonce": 1521036558,
@@ -15627,7 +15262,6 @@
               "iNDbQoKwxf4nWpGT64Phf",
               "lSUWKFLgnqhUpcIKW7Hmy"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321665,
             "index": "a1",
@@ -15659,7 +15293,6 @@
               "iNDbQoKwxf4nWpGT64Phf",
               "lSUWKFLgnqhUpcIKW7Hmy"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321665,
             "index": "a2",
@@ -15691,7 +15324,6 @@
               "iNDbQoKwxf4nWpGT64Phf",
               "lSUWKFLgnqhUpcIKW7Hmy"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321665,
             "fontSize": 20.04457378794349,
@@ -15731,7 +15363,6 @@
               "iNDbQoKwxf4nWpGT64Phf",
               "lSUWKFLgnqhUpcIKW7Hmy"
             ],
-            "strokeSharpness": "sharp",
             "seed": 1108908339,
             "version": 1195,
             "versionNonce": 2047852942,
@@ -15768,7 +15399,6 @@
               "iNDbQoKwxf4nWpGT64Phf",
               "lSUWKFLgnqhUpcIKW7Hmy"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321665,
             "index": "a5",
@@ -15801,7 +15431,6 @@
               "iNDbQoKwxf4nWpGT64Phf",
               "lSUWKFLgnqhUpcIKW7Hmy"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321665,
             "index": "a6",
@@ -15834,7 +15463,6 @@
               "iNDbQoKwxf4nWpGT64Phf",
               "lSUWKFLgnqhUpcIKW7Hmy"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321665,
             "index": "a7",
@@ -15867,7 +15495,6 @@
               "iNDbQoKwxf4nWpGT64Phf",
               "lSUWKFLgnqhUpcIKW7Hmy"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321665,
             "index": "a8",
@@ -15900,7 +15527,6 @@
               "iNDbQoKwxf4nWpGT64Phf",
               "lSUWKFLgnqhUpcIKW7Hmy"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321665,
             "index": "a9",
@@ -15933,7 +15559,6 @@
               "iNDbQoKwxf4nWpGT64Phf",
               "lSUWKFLgnqhUpcIKW7Hmy"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321665,
             "index": "aA",
@@ -15966,7 +15591,6 @@
               "iNDbQoKwxf4nWpGT64Phf",
               "lSUWKFLgnqhUpcIKW7Hmy"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321665,
             "index": "aB",
@@ -15999,7 +15623,6 @@
               "iNDbQoKwxf4nWpGT64Phf",
               "lSUWKFLgnqhUpcIKW7Hmy"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321665,
             "index": "aC",
@@ -16032,7 +15655,6 @@
               "iNDbQoKwxf4nWpGT64Phf",
               "lSUWKFLgnqhUpcIKW7Hmy"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321665,
             "index": "aD",
@@ -16065,7 +15687,6 @@
               "iNDbQoKwxf4nWpGT64Phf",
               "lSUWKFLgnqhUpcIKW7Hmy"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321665,
             "index": "aE",
@@ -16098,7 +15719,6 @@
               "iNDbQoKwxf4nWpGT64Phf",
               "lSUWKFLgnqhUpcIKW7Hmy"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321665,
             "index": "aF",
@@ -16131,7 +15751,6 @@
               "iNDbQoKwxf4nWpGT64Phf",
               "lSUWKFLgnqhUpcIKW7Hmy"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321665,
             "index": "aG",
@@ -16164,7 +15783,6 @@
               "iNDbQoKwxf4nWpGT64Phf",
               "lSUWKFLgnqhUpcIKW7Hmy"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321665,
             "index": "aH",
@@ -16197,7 +15815,6 @@
               "iNDbQoKwxf4nWpGT64Phf",
               "lSUWKFLgnqhUpcIKW7Hmy"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321665,
             "index": "aI",
@@ -16230,7 +15847,6 @@
               "iNDbQoKwxf4nWpGT64Phf",
               "lSUWKFLgnqhUpcIKW7Hmy"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321665,
             "index": "aJ",
@@ -16263,7 +15879,6 @@
               "iNDbQoKwxf4nWpGT64Phf",
               "lSUWKFLgnqhUpcIKW7Hmy"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321665,
             "index": "aK",
@@ -16296,7 +15911,6 @@
               "iNDbQoKwxf4nWpGT64Phf",
               "lSUWKFLgnqhUpcIKW7Hmy"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321665,
             "index": "aL",
@@ -16329,7 +15943,6 @@
               "iNDbQoKwxf4nWpGT64Phf",
               "lSUWKFLgnqhUpcIKW7Hmy"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321665,
             "index": "aM",
@@ -16362,7 +15975,6 @@
               "iNDbQoKwxf4nWpGT64Phf",
               "lSUWKFLgnqhUpcIKW7Hmy"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321665,
             "index": "aN",
@@ -16395,7 +16007,6 @@
               "iNDbQoKwxf4nWpGT64Phf",
               "lSUWKFLgnqhUpcIKW7Hmy"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321665,
             "index": "aO",
@@ -16428,7 +16039,6 @@
               "iNDbQoKwxf4nWpGT64Phf",
               "lSUWKFLgnqhUpcIKW7Hmy"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321665,
             "index": "aP",
@@ -16461,7 +16071,6 @@
               "iNDbQoKwxf4nWpGT64Phf",
               "lSUWKFLgnqhUpcIKW7Hmy"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321665,
             "index": "aQ",
@@ -16494,7 +16103,6 @@
               "iNDbQoKwxf4nWpGT64Phf",
               "lSUWKFLgnqhUpcIKW7Hmy"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321665,
             "index": "aR",
@@ -16527,7 +16135,6 @@
               "iNDbQoKwxf4nWpGT64Phf",
               "lSUWKFLgnqhUpcIKW7Hmy"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321665,
             "index": "aS",
@@ -16560,7 +16167,6 @@
               "iNDbQoKwxf4nWpGT64Phf",
               "lSUWKFLgnqhUpcIKW7Hmy"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321665,
             "index": "aT",
@@ -16593,7 +16199,6 @@
               "iNDbQoKwxf4nWpGT64Phf",
               "lSUWKFLgnqhUpcIKW7Hmy"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321665,
             "index": "aU",
@@ -16626,7 +16231,6 @@
               "iNDbQoKwxf4nWpGT64Phf",
               "lSUWKFLgnqhUpcIKW7Hmy"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321665,
             "index": "aV",
@@ -16665,7 +16269,6 @@
             "groupIds": [
               "guXnWr9q9ywlXPqIYFPX8"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321666,
             "fontSize": 20,
@@ -16709,7 +16312,6 @@
               "C2BcbbzzscwwI49nbMnEU",
               "guXnWr9q9ywlXPqIYFPX8"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321666,
             "index": "a1",
@@ -16742,7 +16344,6 @@
               "C2BcbbzzscwwI49nbMnEU",
               "guXnWr9q9ywlXPqIYFPX8"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321666,
             "index": "a2",
@@ -16775,7 +16376,6 @@
               "C2BcbbzzscwwI49nbMnEU",
               "guXnWr9q9ywlXPqIYFPX8"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321666,
             "fontSize": 20,
@@ -16814,7 +16414,6 @@
               "C2BcbbzzscwwI49nbMnEU",
               "guXnWr9q9ywlXPqIYFPX8"
             ],
-            "strokeSharpness": "sharp",
             "seed": 661306141,
             "version": 619,
             "versionNonce": 814998926,
@@ -16846,7 +16445,6 @@
               "C2BcbbzzscwwI49nbMnEU",
               "guXnWr9q9ywlXPqIYFPX8"
             ],
-            "strokeSharpness": "sharp",
             "seed": 1006587773,
             "version": 647,
             "versionNonce": 1060209234,
@@ -16901,7 +16499,6 @@
               "C2BcbbzzscwwI49nbMnEU",
               "guXnWr9q9ywlXPqIYFPX8"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321666,
             "startBinding": null,
@@ -16952,7 +16549,6 @@
               "C2BcbbzzscwwI49nbMnEU",
               "guXnWr9q9ywlXPqIYFPX8"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321666,
             "startBinding": null,
@@ -17003,7 +16599,6 @@
               "C2BcbbzzscwwI49nbMnEU",
               "guXnWr9q9ywlXPqIYFPX8"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321666,
             "startBinding": null,
@@ -17054,7 +16649,6 @@
               "C2BcbbzzscwwI49nbMnEU",
               "guXnWr9q9ywlXPqIYFPX8"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321666,
             "startBinding": null,
@@ -17105,7 +16699,6 @@
               "C2BcbbzzscwwI49nbMnEU",
               "guXnWr9q9ywlXPqIYFPX8"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321666,
             "startBinding": null,
@@ -17156,7 +16749,6 @@
               "C2BcbbzzscwwI49nbMnEU",
               "guXnWr9q9ywlXPqIYFPX8"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321666,
             "startBinding": null,
@@ -17207,7 +16799,6 @@
               "C2BcbbzzscwwI49nbMnEU",
               "guXnWr9q9ywlXPqIYFPX8"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321666,
             "startBinding": null,
@@ -17258,7 +16849,6 @@
               "C2BcbbzzscwwI49nbMnEU",
               "guXnWr9q9ywlXPqIYFPX8"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321666,
             "startBinding": null,
@@ -17309,7 +16899,6 @@
               "C2BcbbzzscwwI49nbMnEU",
               "guXnWr9q9ywlXPqIYFPX8"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321666,
             "startBinding": null,
@@ -17360,7 +16949,6 @@
               "C2BcbbzzscwwI49nbMnEU",
               "guXnWr9q9ywlXPqIYFPX8"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321666,
             "startBinding": null,
@@ -17411,7 +16999,6 @@
               "C2BcbbzzscwwI49nbMnEU",
               "guXnWr9q9ywlXPqIYFPX8"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321666,
             "startBinding": null,
@@ -17462,7 +17049,6 @@
               "C2BcbbzzscwwI49nbMnEU",
               "guXnWr9q9ywlXPqIYFPX8"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321666,
             "startBinding": null,
@@ -17513,7 +17099,6 @@
               "C2BcbbzzscwwI49nbMnEU",
               "guXnWr9q9ywlXPqIYFPX8"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321666,
             "startBinding": null,
@@ -17564,7 +17149,6 @@
               "C2BcbbzzscwwI49nbMnEU",
               "guXnWr9q9ywlXPqIYFPX8"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321666,
             "startBinding": null,
@@ -17615,7 +17199,6 @@
               "C2BcbbzzscwwI49nbMnEU",
               "guXnWr9q9ywlXPqIYFPX8"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321666,
             "startBinding": null,
@@ -17666,7 +17249,6 @@
               "C2BcbbzzscwwI49nbMnEU",
               "guXnWr9q9ywlXPqIYFPX8"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321666,
             "startBinding": null,
@@ -17717,7 +17299,6 @@
               "C2BcbbzzscwwI49nbMnEU",
               "guXnWr9q9ywlXPqIYFPX8"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321666,
             "startBinding": null,
@@ -17764,7 +17345,6 @@
               "C2BcbbzzscwwI49nbMnEU",
               "guXnWr9q9ywlXPqIYFPX8"
             ],
-            "strokeSharpness": "sharp",
             "seed": 1375124029,
             "version": 665,
             "versionNonce": 2031793682,
@@ -17807,7 +17387,6 @@
               "C2BcbbzzscwwI49nbMnEU",
               "guXnWr9q9ywlXPqIYFPX8"
             ],
-            "strokeSharpness": "sharp",
             "seed": 788425373,
             "version": 511,
             "versionNonce": 1134619662,
@@ -17843,7 +17422,6 @@
               "C2BcbbzzscwwI49nbMnEU",
               "guXnWr9q9ywlXPqIYFPX8"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321666,
             "index": "aP",
@@ -17875,7 +17453,6 @@
               "C2BcbbzzscwwI49nbMnEU",
               "guXnWr9q9ywlXPqIYFPX8"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321666,
             "index": "aQ",
@@ -17907,7 +17484,6 @@
               "C2BcbbzzscwwI49nbMnEU",
               "guXnWr9q9ywlXPqIYFPX8"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321666,
             "index": "aR",
@@ -17939,7 +17515,6 @@
               "C2BcbbzzscwwI49nbMnEU",
               "guXnWr9q9ywlXPqIYFPX8"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321666,
             "index": "aS",
@@ -17967,7 +17542,6 @@
               "C2BcbbzzscwwI49nbMnEU",
               "guXnWr9q9ywlXPqIYFPX8"
             ],
-            "strokeSharpness": "round",
             "seed": 1572284541,
             "version": 1083,
             "versionNonce": 539023186,
@@ -18032,7 +17606,6 @@
               "C2BcbbzzscwwI49nbMnEU",
               "guXnWr9q9ywlXPqIYFPX8"
             ],
-            "strokeSharpness": "round",
             "boundElements": [],
             "updated": 1744839321666,
             "startBinding": null,
@@ -18093,7 +17666,6 @@
               "C2BcbbzzscwwI49nbMnEU",
               "guXnWr9q9ywlXPqIYFPX8"
             ],
-            "strokeSharpness": "round",
             "boundElements": [],
             "updated": 1744839321666,
             "startBinding": null,
@@ -18154,7 +17726,6 @@
               "C2BcbbzzscwwI49nbMnEU",
               "guXnWr9q9ywlXPqIYFPX8"
             ],
-            "strokeSharpness": "round",
             "boundElements": [],
             "updated": 1744839321666,
             "startBinding": null,
@@ -18215,7 +17786,6 @@
               "C2BcbbzzscwwI49nbMnEU",
               "guXnWr9q9ywlXPqIYFPX8"
             ],
-            "strokeSharpness": "round",
             "boundElements": [],
             "updated": 1744839321666,
             "startBinding": null,
@@ -18272,7 +17842,6 @@
               "C2BcbbzzscwwI49nbMnEU",
               "guXnWr9q9ywlXPqIYFPX8"
             ],
-            "strokeSharpness": "sharp",
             "seed": 2010987101,
             "version": 541,
             "versionNonce": 1644536654,
@@ -18308,7 +17877,6 @@
               "C2BcbbzzscwwI49nbMnEU",
               "guXnWr9q9ywlXPqIYFPX8"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321666,
             "index": "aZ",
@@ -18340,7 +17908,6 @@
               "C2BcbbzzscwwI49nbMnEU",
               "guXnWr9q9ywlXPqIYFPX8"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321666,
             "index": "aa",
@@ -18372,7 +17939,6 @@
               "C2BcbbzzscwwI49nbMnEU",
               "guXnWr9q9ywlXPqIYFPX8"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321666,
             "index": "ab",
@@ -18404,7 +17970,6 @@
               "C2BcbbzzscwwI49nbMnEU",
               "guXnWr9q9ywlXPqIYFPX8"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321666,
             "index": "ac",
@@ -18436,7 +18001,6 @@
               "C2BcbbzzscwwI49nbMnEU",
               "guXnWr9q9ywlXPqIYFPX8"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321666,
             "index": "ad",
@@ -18468,7 +18032,6 @@
               "C2BcbbzzscwwI49nbMnEU",
               "guXnWr9q9ywlXPqIYFPX8"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321666,
             "index": "ae",
@@ -18500,7 +18063,6 @@
               "C2BcbbzzscwwI49nbMnEU",
               "guXnWr9q9ywlXPqIYFPX8"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321666,
             "index": "af",
@@ -18532,7 +18094,6 @@
               "C2BcbbzzscwwI49nbMnEU",
               "guXnWr9q9ywlXPqIYFPX8"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321666,
             "index": "ag",
@@ -18564,7 +18125,6 @@
               "C2BcbbzzscwwI49nbMnEU",
               "guXnWr9q9ywlXPqIYFPX8"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321666,
             "index": "ah",
@@ -18596,7 +18156,6 @@
               "C2BcbbzzscwwI49nbMnEU",
               "guXnWr9q9ywlXPqIYFPX8"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321666,
             "index": "ai",
@@ -18628,7 +18187,6 @@
               "C2BcbbzzscwwI49nbMnEU",
               "guXnWr9q9ywlXPqIYFPX8"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321666,
             "index": "aj",
@@ -18667,7 +18225,6 @@
             "groupIds": [
               "0sKVo47a739-1pQflTcwv"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321667,
             "fontSize": 20,
@@ -18711,7 +18268,6 @@
               "44otVHR16GJR6q-uN6rx9",
               "0sKVo47a739-1pQflTcwv"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321667,
             "index": "a1",
@@ -18744,7 +18300,6 @@
               "44otVHR16GJR6q-uN6rx9",
               "0sKVo47a739-1pQflTcwv"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321667,
             "index": "a2",
@@ -18777,7 +18332,6 @@
               "44otVHR16GJR6q-uN6rx9",
               "0sKVo47a739-1pQflTcwv"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321667,
             "fontSize": 20,
@@ -18817,7 +18371,6 @@
               "44otVHR16GJR6q-uN6rx9",
               "0sKVo47a739-1pQflTcwv"
             ],
-            "strokeSharpness": "round",
             "seed": 106746525,
             "version": 754,
             "versionNonce": 1087567182,
@@ -18899,7 +18452,6 @@
               "44otVHR16GJR6q-uN6rx9",
               "0sKVo47a739-1pQflTcwv"
             ],
-            "strokeSharpness": "round",
             "seed": 197793981,
             "version": 906,
             "versionNonce": 570183314,
@@ -18989,7 +18541,6 @@
               "44otVHR16GJR6q-uN6rx9",
               "0sKVo47a739-1pQflTcwv"
             ],
-            "strokeSharpness": "round",
             "seed": 1812659133,
             "version": 754,
             "versionNonce": 1168317326,
@@ -19075,7 +18626,6 @@
               "44otVHR16GJR6q-uN6rx9",
               "0sKVo47a739-1pQflTcwv"
             ],
-            "strokeSharpness": "round",
             "seed": 1091310269,
             "version": 863,
             "versionNonce": 777563218,
@@ -19173,7 +18723,6 @@
               "44otVHR16GJR6q-uN6rx9",
               "0sKVo47a739-1pQflTcwv"
             ],
-            "strokeSharpness": "round",
             "seed": 527702365,
             "version": 1070,
             "versionNonce": 34896334,
@@ -19307,7 +18856,6 @@
               "44otVHR16GJR6q-uN6rx9",
               "0sKVo47a739-1pQflTcwv"
             ],
-            "strokeSharpness": "round",
             "seed": 380069949,
             "version": 1088,
             "versionNonce": 853758482,
@@ -19409,7 +18957,6 @@
               "44otVHR16GJR6q-uN6rx9",
               "0sKVo47a739-1pQflTcwv"
             ],
-            "strokeSharpness": "round",
             "seed": 1503205629,
             "version": 1021,
             "versionNonce": 1564479502,
@@ -19543,7 +19090,6 @@
               "44otVHR16GJR6q-uN6rx9",
               "0sKVo47a739-1pQflTcwv"
             ],
-            "strokeSharpness": "round",
             "seed": 1293312339,
             "version": 870,
             "versionNonce": 580075474,
@@ -19675,7 +19221,6 @@
             "groupIds": [
               "IUJZIIudBAyDLW50vqaus"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321667,
             "fontSize": 20,
@@ -19718,7 +19263,6 @@
               "tbnAxv7KMMe2-CDKVhmRT",
               "IUJZIIudBAyDLW50vqaus"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321667,
             "index": "a1",
@@ -19750,7 +19294,6 @@
               "tbnAxv7KMMe2-CDKVhmRT",
               "IUJZIIudBAyDLW50vqaus"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321667,
             "index": "a2",
@@ -19782,7 +19325,6 @@
               "tbnAxv7KMMe2-CDKVhmRT",
               "IUJZIIudBAyDLW50vqaus"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321667,
             "fontSize": 20,
@@ -19822,7 +19364,6 @@
               "tbnAxv7KMMe2-CDKVhmRT",
               "IUJZIIudBAyDLW50vqaus"
             ],
-            "strokeSharpness": "sharp",
             "seed": 962745619,
             "version": 604,
             "versionNonce": 523903694,
@@ -19886,7 +19427,6 @@
               "tbnAxv7KMMe2-CDKVhmRT",
               "IUJZIIudBAyDLW50vqaus"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321667,
             "startBinding": null,
@@ -19946,7 +19486,6 @@
               "tbnAxv7KMMe2-CDKVhmRT",
               "IUJZIIudBAyDLW50vqaus"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321667,
             "startBinding": null,
@@ -20006,7 +19545,6 @@
               "tbnAxv7KMMe2-CDKVhmRT",
               "IUJZIIudBAyDLW50vqaus"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321667,
             "startBinding": null,
@@ -20066,7 +19604,6 @@
               "tbnAxv7KMMe2-CDKVhmRT",
               "IUJZIIudBAyDLW50vqaus"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321667,
             "startBinding": null,
@@ -20126,7 +19663,6 @@
               "tbnAxv7KMMe2-CDKVhmRT",
               "IUJZIIudBAyDLW50vqaus"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321667,
             "startBinding": null,
@@ -20182,7 +19718,6 @@
               "tbnAxv7KMMe2-CDKVhmRT",
               "IUJZIIudBAyDLW50vqaus"
             ],
-            "strokeSharpness": "sharp",
             "seed": 668589971,
             "version": 626,
             "versionNonce": 1363422606,
@@ -20246,7 +19781,6 @@
               "tbnAxv7KMMe2-CDKVhmRT",
               "IUJZIIudBAyDLW50vqaus"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321667,
             "startBinding": null,
@@ -20306,7 +19840,6 @@
               "tbnAxv7KMMe2-CDKVhmRT",
               "IUJZIIudBAyDLW50vqaus"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321667,
             "startBinding": null,
@@ -20372,7 +19905,6 @@
             "groupIds": [
               "W3h8ClhSAJtvjaf3xpE9P"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321668,
             "fontSize": 20,
@@ -20417,7 +19949,6 @@
               "6raslD3N4_T6-Ra5Kpn62",
               "W3h8ClhSAJtvjaf3xpE9P"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321668,
             "index": "a1",
@@ -20451,7 +19982,6 @@
               "6raslD3N4_T6-Ra5Kpn62",
               "W3h8ClhSAJtvjaf3xpE9P"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321668,
             "index": "a2",
@@ -20485,7 +20015,6 @@
               "6raslD3N4_T6-Ra5Kpn62",
               "W3h8ClhSAJtvjaf3xpE9P"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321668,
             "fontSize": 20,
@@ -20529,7 +20058,6 @@
               "6raslD3N4_T6-Ra5Kpn62",
               "W3h8ClhSAJtvjaf3xpE9P"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321668,
             "index": "a4",
@@ -20558,7 +20086,6 @@
               "6raslD3N4_T6-Ra5Kpn62",
               "W3h8ClhSAJtvjaf3xpE9P"
             ],
-            "strokeSharpness": "sharp",
             "seed": 2081290355,
             "version": 549,
             "versionNonce": 168949390,
@@ -20595,7 +20122,6 @@
               "6raslD3N4_T6-Ra5Kpn62",
               "W3h8ClhSAJtvjaf3xpE9P"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321668,
             "fontSize": 21.229136948931103,
@@ -20635,7 +20161,6 @@
               "6raslD3N4_T6-Ra5Kpn62",
               "W3h8ClhSAJtvjaf3xpE9P"
             ],
-            "strokeSharpness": "sharp",
             "seed": 395060637,
             "version": 626,
             "versionNonce": 703591630,
@@ -20689,7 +20214,6 @@
             "groupIds": [
               "3_jk3E-QMA7jbcs0TOyN1"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321669,
             "fontSize": 20,
@@ -20733,7 +20257,6 @@
               "IAMdHP-FYcghdzW1PYfH9",
               "3_jk3E-QMA7jbcs0TOyN1"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321669,
             "index": "a1",
@@ -20766,7 +20289,6 @@
               "IAMdHP-FYcghdzW1PYfH9",
               "3_jk3E-QMA7jbcs0TOyN1"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321669,
             "index": "a2",
@@ -20799,7 +20321,6 @@
               "IAMdHP-FYcghdzW1PYfH9",
               "3_jk3E-QMA7jbcs0TOyN1"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321669,
             "fontSize": 20,
@@ -20843,7 +20364,6 @@
               "IAMdHP-FYcghdzW1PYfH9",
               "3_jk3E-QMA7jbcs0TOyN1"
             ],
-            "strokeSharpness": "round",
             "boundElements": [],
             "updated": 1744839321669,
             "startBinding": null,
@@ -20941,7 +20461,6 @@
               "IAMdHP-FYcghdzW1PYfH9",
               "3_jk3E-QMA7jbcs0TOyN1"
             ],
-            "strokeSharpness": "round",
             "boundElements": [],
             "updated": 1744839321669,
             "startBinding": null,
@@ -21039,7 +20558,6 @@
               "IAMdHP-FYcghdzW1PYfH9",
               "3_jk3E-QMA7jbcs0TOyN1"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321669,
             "index": "a6",
@@ -21072,7 +20590,6 @@
               "IAMdHP-FYcghdzW1PYfH9",
               "3_jk3E-QMA7jbcs0TOyN1"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321669,
             "index": "a7",
@@ -21105,7 +20622,6 @@
               "IAMdHP-FYcghdzW1PYfH9",
               "3_jk3E-QMA7jbcs0TOyN1"
             ],
-            "strokeSharpness": "round",
             "boundElements": [],
             "updated": 1744839321669,
             "startBinding": null,
@@ -21183,7 +20699,6 @@
               "IAMdHP-FYcghdzW1PYfH9",
               "3_jk3E-QMA7jbcs0TOyN1"
             ],
-            "strokeSharpness": "round",
             "boundElements": [],
             "updated": 1744839321669,
             "startBinding": null,
@@ -21257,7 +20772,6 @@
               "IAMdHP-FYcghdzW1PYfH9",
               "3_jk3E-QMA7jbcs0TOyN1"
             ],
-            "strokeSharpness": "round",
             "seed": 176874611,
             "version": 330,
             "versionNonce": 1966103506,
@@ -21313,7 +20827,6 @@
             "groupIds": [
               "_Gv-wnqOKwxJpBw84tUQh"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321669,
             "fontSize": 20,
@@ -21357,7 +20870,6 @@
               "T5bx7tR0N8IjxY0b9i0go",
               "_Gv-wnqOKwxJpBw84tUQh"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321669,
             "index": "a1",
@@ -21390,7 +20902,6 @@
               "T5bx7tR0N8IjxY0b9i0go",
               "_Gv-wnqOKwxJpBw84tUQh"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321669,
             "index": "a2",
@@ -21423,7 +20934,6 @@
               "T5bx7tR0N8IjxY0b9i0go",
               "_Gv-wnqOKwxJpBw84tUQh"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321669,
             "fontSize": 20,
@@ -21466,7 +20976,6 @@
               "T5bx7tR0N8IjxY0b9i0go",
               "_Gv-wnqOKwxJpBw84tUQh"
             ],
-            "strokeSharpness": "round",
             "boundElements": [],
             "updated": 1744839321669,
             "startBinding": null,
@@ -21563,7 +21072,6 @@
               "T5bx7tR0N8IjxY0b9i0go",
               "_Gv-wnqOKwxJpBw84tUQh"
             ],
-            "strokeSharpness": "round",
             "boundElements": [],
             "updated": 1744839321669,
             "startBinding": null,
@@ -21660,7 +21168,6 @@
               "T5bx7tR0N8IjxY0b9i0go",
               "_Gv-wnqOKwxJpBw84tUQh"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321669,
             "index": "a6",
@@ -21692,7 +21199,6 @@
               "T5bx7tR0N8IjxY0b9i0go",
               "_Gv-wnqOKwxJpBw84tUQh"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321669,
             "index": "a7",
@@ -21724,7 +21230,6 @@
               "T5bx7tR0N8IjxY0b9i0go",
               "_Gv-wnqOKwxJpBw84tUQh"
             ],
-            "strokeSharpness": "round",
             "boundElements": [],
             "updated": 1744839321669,
             "startBinding": null,
@@ -21801,7 +21306,6 @@
               "T5bx7tR0N8IjxY0b9i0go",
               "_Gv-wnqOKwxJpBw84tUQh"
             ],
-            "strokeSharpness": "round",
             "boundElements": [],
             "updated": 1744839321669,
             "startBinding": null,
@@ -21874,7 +21378,6 @@
               "T5bx7tR0N8IjxY0b9i0go",
               "_Gv-wnqOKwxJpBw84tUQh"
             ],
-            "strokeSharpness": "round",
             "seed": 828808755,
             "version": 368,
             "versionNonce": 1534087566,
@@ -21930,7 +21433,6 @@
             "groupIds": [
               "u0ODsnvgNIS8VN7GDHhJa"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321669,
             "fontSize": 20,
@@ -21974,7 +21476,6 @@
               "YQMaqMyPchv2s2V8StY-S",
               "u0ODsnvgNIS8VN7GDHhJa"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321669,
             "index": "a1",
@@ -22007,7 +21508,6 @@
               "YQMaqMyPchv2s2V8StY-S",
               "u0ODsnvgNIS8VN7GDHhJa"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321669,
             "index": "a2",
@@ -22040,7 +21540,6 @@
               "YQMaqMyPchv2s2V8StY-S",
               "u0ODsnvgNIS8VN7GDHhJa"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321669,
             "fontSize": 20,
@@ -22080,7 +21579,6 @@
               "YQMaqMyPchv2s2V8StY-S",
               "u0ODsnvgNIS8VN7GDHhJa"
             ],
-            "strokeSharpness": "round",
             "seed": 1211862739,
             "version": 1642,
             "versionNonce": 790227410,
@@ -22182,7 +21680,6 @@
               "YQMaqMyPchv2s2V8StY-S",
               "u0ODsnvgNIS8VN7GDHhJa"
             ],
-            "strokeSharpness": "round",
             "boundElements": [],
             "updated": 1744839321669,
             "startBinding": null,
@@ -22276,7 +21773,6 @@
               "YQMaqMyPchv2s2V8StY-S",
               "u0ODsnvgNIS8VN7GDHhJa"
             ],
-            "strokeSharpness": "sharp",
             "seed": 1449019859,
             "version": 920,
             "versionNonce": 1403051922,
@@ -22313,7 +21809,6 @@
               "YQMaqMyPchv2s2V8StY-S",
               "u0ODsnvgNIS8VN7GDHhJa"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321669,
             "index": "a7",
@@ -22342,7 +21837,6 @@
               "YQMaqMyPchv2s2V8StY-S",
               "u0ODsnvgNIS8VN7GDHhJa"
             ],
-            "strokeSharpness": "round",
             "seed": 1225344115,
             "version": 1493,
             "versionNonce": 1061363026,
@@ -22420,7 +21914,6 @@
               "YQMaqMyPchv2s2V8StY-S",
               "u0ODsnvgNIS8VN7GDHhJa"
             ],
-            "strokeSharpness": "round",
             "seed": 487652403,
             "version": 1760,
             "versionNonce": 537237710,
@@ -22508,7 +22001,6 @@
             "groupIds": [
               "zlCN2ZnptZ1YovN1DJJOh"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321670,
             "fontSize": 20,
@@ -22552,7 +22044,6 @@
               "rAj-5MXJjC63gUW2MEmX3",
               "zlCN2ZnptZ1YovN1DJJOh"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321670,
             "index": "a1",
@@ -22585,7 +22076,6 @@
               "rAj-5MXJjC63gUW2MEmX3",
               "zlCN2ZnptZ1YovN1DJJOh"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321670,
             "index": "a2",
@@ -22618,7 +22108,6 @@
               "rAj-5MXJjC63gUW2MEmX3",
               "zlCN2ZnptZ1YovN1DJJOh"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321670,
             "fontSize": 20,
@@ -22658,7 +22147,6 @@
               "rAj-5MXJjC63gUW2MEmX3",
               "zlCN2ZnptZ1YovN1DJJOh"
             ],
-            "strokeSharpness": "round",
             "seed": 1587687571,
             "version": 1444,
             "versionNonce": 1070827154,
@@ -22804,7 +22292,6 @@
               "rAj-5MXJjC63gUW2MEmX3",
               "zlCN2ZnptZ1YovN1DJJOh"
             ],
-            "strokeSharpness": "round",
             "boundElements": [],
             "updated": 1744839321670,
             "startBinding": null,
@@ -22942,7 +22429,6 @@
               "rAj-5MXJjC63gUW2MEmX3",
               "zlCN2ZnptZ1YovN1DJJOh"
             ],
-            "strokeSharpness": "sharp",
             "seed": 1617389523,
             "version": 593,
             "versionNonce": 2089346130,
@@ -22979,7 +22465,6 @@
               "rAj-5MXJjC63gUW2MEmX3",
               "zlCN2ZnptZ1YovN1DJJOh"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321670,
             "index": "a7",
@@ -23018,7 +22503,6 @@
             "groupIds": [
               "mxi_3V64cD_C7GO1E1tPz"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321670,
             "fontSize": 20,
@@ -23061,7 +22545,6 @@
               "x52_TAkfgnuckltMyxQJ7",
               "mxi_3V64cD_C7GO1E1tPz"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321670,
             "index": "a1",
@@ -23093,7 +22576,6 @@
               "x52_TAkfgnuckltMyxQJ7",
               "mxi_3V64cD_C7GO1E1tPz"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321670,
             "index": "a2",
@@ -23125,7 +22607,6 @@
               "x52_TAkfgnuckltMyxQJ7",
               "mxi_3V64cD_C7GO1E1tPz"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321670,
             "fontSize": 20,
@@ -23169,7 +22650,6 @@
               "x52_TAkfgnuckltMyxQJ7",
               "mxi_3V64cD_C7GO1E1tPz"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321670,
             "fontSize": 28,
@@ -23214,7 +22694,6 @@
               "x52_TAkfgnuckltMyxQJ7",
               "mxi_3V64cD_C7GO1E1tPz"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321670,
             "startBinding": null,
@@ -23263,7 +22742,6 @@
               "x52_TAkfgnuckltMyxQJ7",
               "mxi_3V64cD_C7GO1E1tPz"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321670,
             "startBinding": null,
@@ -23312,7 +22790,6 @@
               "x52_TAkfgnuckltMyxQJ7",
               "mxi_3V64cD_C7GO1E1tPz"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321670,
             "startBinding": null,
@@ -23367,7 +22844,6 @@
               "-BBDhS8KN9RmldJ8U1tfs",
               "nwbT6f0VIPP6g3ki24Z1X"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321670,
             "index": "a0",
@@ -23399,7 +22875,6 @@
               "-BBDhS8KN9RmldJ8U1tfs",
               "nwbT6f0VIPP6g3ki24Z1X"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321670,
             "index": "a1",
@@ -23431,7 +22906,6 @@
               "-BBDhS8KN9RmldJ8U1tfs",
               "nwbT6f0VIPP6g3ki24Z1X"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321670,
             "fontSize": 20,
@@ -23473,7 +22947,6 @@
             "groupIds": [
               "nwbT6f0VIPP6g3ki24Z1X"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321670,
             "fontSize": 20,
@@ -23516,7 +22989,6 @@
               "cqXZhDy92p6nCFgwqxRJG",
               "nwbT6f0VIPP6g3ki24Z1X"
             ],
-            "strokeSharpness": "round",
             "boundElements": [],
             "updated": 1744839321670,
             "index": "a4",
@@ -23550,7 +23022,6 @@
               "cqXZhDy92p6nCFgwqxRJG",
               "nwbT6f0VIPP6g3ki24Z1X"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321670,
             "startBinding": null,
@@ -23617,7 +23088,6 @@
               "cqXZhDy92p6nCFgwqxRJG",
               "nwbT6f0VIPP6g3ki24Z1X"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321670,
             "startBinding": null,
@@ -23691,7 +23161,6 @@
             "groupIds": [
               "2ZWpIcBEWkBXGF0vG8xv1"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321670,
             "fontSize": 20,
@@ -23735,7 +23204,6 @@
               "MJrDPYanSCwhHbD61eYEC",
               "2ZWpIcBEWkBXGF0vG8xv1"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321670,
             "index": "a1",
@@ -23768,7 +23236,6 @@
               "MJrDPYanSCwhHbD61eYEC",
               "2ZWpIcBEWkBXGF0vG8xv1"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321670,
             "index": "a2",
@@ -23801,7 +23268,6 @@
               "MJrDPYanSCwhHbD61eYEC",
               "2ZWpIcBEWkBXGF0vG8xv1"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321670,
             "fontSize": 20,
@@ -23841,7 +23307,6 @@
               "MJrDPYanSCwhHbD61eYEC",
               "2ZWpIcBEWkBXGF0vG8xv1"
             ],
-            "strokeSharpness": "round",
             "seed": 1878563507,
             "version": 578,
             "versionNonce": 567703630,
@@ -23995,7 +23460,6 @@
               "MJrDPYanSCwhHbD61eYEC",
               "2ZWpIcBEWkBXGF0vG8xv1"
             ],
-            "strokeSharpness": "round",
             "seed": 20826429,
             "version": 447,
             "versionNonce": 1730575250,
@@ -24030,7 +23494,6 @@
               "MJrDPYanSCwhHbD61eYEC",
               "2ZWpIcBEWkBXGF0vG8xv1"
             ],
-            "strokeSharpness": "sharp",
             "seed": 899212253,
             "version": 421,
             "versionNonce": 1631469198,
@@ -24098,7 +23561,6 @@
               "MJrDPYanSCwhHbD61eYEC",
               "2ZWpIcBEWkBXGF0vG8xv1"
             ],
-            "strokeSharpness": "round",
             "boundElements": [],
             "updated": 1744839321670,
             "index": "a7",
@@ -24133,7 +23595,6 @@
               "MJrDPYanSCwhHbD61eYEC",
               "2ZWpIcBEWkBXGF0vG8xv1"
             ],
-            "strokeSharpness": "round",
             "boundElements": [],
             "updated": 1744839321670,
             "index": "a8",
@@ -24174,7 +23635,6 @@
             "groupIds": [
               "A-S-KMs1gcBZtKI5rwLdO"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321671,
             "fontSize": 20,
@@ -24218,7 +23678,6 @@
               "uKw7A0INFaeRqa9Sg5nzo",
               "A-S-KMs1gcBZtKI5rwLdO"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321671,
             "index": "a1",
@@ -24251,7 +23710,6 @@
               "uKw7A0INFaeRqa9Sg5nzo",
               "A-S-KMs1gcBZtKI5rwLdO"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321671,
             "index": "a2",
@@ -24284,7 +23742,6 @@
               "uKw7A0INFaeRqa9Sg5nzo",
               "A-S-KMs1gcBZtKI5rwLdO"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321671,
             "fontSize": 20,
@@ -24324,7 +23781,6 @@
               "uKw7A0INFaeRqa9Sg5nzo",
               "A-S-KMs1gcBZtKI5rwLdO"
             ],
-            "strokeSharpness": "sharp",
             "seed": 447258781,
             "version": 305,
             "versionNonce": 1168843410,
@@ -24384,7 +23840,6 @@
               "uKw7A0INFaeRqa9Sg5nzo",
               "A-S-KMs1gcBZtKI5rwLdO"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321671,
             "startBinding": null,
@@ -24440,7 +23895,6 @@
               "uKw7A0INFaeRqa9Sg5nzo",
               "A-S-KMs1gcBZtKI5rwLdO"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321671,
             "startBinding": null,
@@ -24502,7 +23956,6 @@
             "groupIds": [
               "JypyOmykx-wo1yQ1H2lpH"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321671,
             "fontSize": 20,
@@ -24546,7 +23999,6 @@
               "60gdMACZpkSGO-8wN5DwK",
               "JypyOmykx-wo1yQ1H2lpH"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321671,
             "index": "a1",
@@ -24579,7 +24031,6 @@
               "60gdMACZpkSGO-8wN5DwK",
               "JypyOmykx-wo1yQ1H2lpH"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321671,
             "index": "a2",
@@ -24612,7 +24063,6 @@
               "60gdMACZpkSGO-8wN5DwK",
               "JypyOmykx-wo1yQ1H2lpH"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321671,
             "fontSize": 20,
@@ -24652,7 +24102,6 @@
               "60gdMACZpkSGO-8wN5DwK",
               "JypyOmykx-wo1yQ1H2lpH"
             ],
-            "strokeSharpness": "round",
             "seed": 1348894813,
             "version": 451,
             "versionNonce": 851364430,
@@ -24687,7 +24136,6 @@
               "60gdMACZpkSGO-8wN5DwK",
               "JypyOmykx-wo1yQ1H2lpH"
             ],
-            "strokeSharpness": "round",
             "seed": 1281696819,
             "version": 521,
             "versionNonce": 1965312402,
@@ -24899,7 +24347,6 @@
             "groupIds": [
               "tWDMCQqrUDxJJZ7QK6w12"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321671,
             "fontSize": 20,
@@ -24942,7 +24389,6 @@
               "T0gojftamtMibIpfdNSSb",
               "tWDMCQqrUDxJJZ7QK6w12"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321671,
             "index": "a1",
@@ -24974,7 +24420,6 @@
               "T0gojftamtMibIpfdNSSb",
               "tWDMCQqrUDxJJZ7QK6w12"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321671,
             "index": "a2",
@@ -25006,7 +24451,6 @@
               "T0gojftamtMibIpfdNSSb",
               "tWDMCQqrUDxJJZ7QK6w12"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321671,
             "fontSize": 20,
@@ -25046,7 +24490,6 @@
               "T0gojftamtMibIpfdNSSb",
               "tWDMCQqrUDxJJZ7QK6w12"
             ],
-            "strokeSharpness": "sharp",
             "seed": 651055517,
             "version": 1311,
             "versionNonce": 31458574,
@@ -25119,7 +24562,6 @@
               "T0gojftamtMibIpfdNSSb",
               "tWDMCQqrUDxJJZ7QK6w12"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321671,
             "startBinding": null,
@@ -25184,7 +24626,6 @@
               "T0gojftamtMibIpfdNSSb",
               "tWDMCQqrUDxJJZ7QK6w12"
             ],
-            "strokeSharpness": "sharp",
             "seed": 1695698525,
             "version": 913,
             "versionNonce": 1241002830,
@@ -25244,7 +24685,6 @@
               "T0gojftamtMibIpfdNSSb",
               "tWDMCQqrUDxJJZ7QK6w12"
             ],
-            "strokeSharpness": "sharp",
             "seed": 1574075069,
             "version": 582,
             "versionNonce": 391245970,
@@ -25304,7 +24744,6 @@
               "T0gojftamtMibIpfdNSSb",
               "tWDMCQqrUDxJJZ7QK6w12"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321671,
             "startBinding": null,
@@ -25366,7 +24805,6 @@
             "groupIds": [
               "WkX4ymrNmSg8qaf_IkxGu"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321671,
             "fontSize": 20,
@@ -25410,7 +24848,6 @@
               "Dr9HuKAOXDWbFqhqXKClc",
               "WkX4ymrNmSg8qaf_IkxGu"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321671,
             "index": "a1",
@@ -25443,7 +24880,6 @@
               "Dr9HuKAOXDWbFqhqXKClc",
               "WkX4ymrNmSg8qaf_IkxGu"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321671,
             "index": "a2",
@@ -25476,7 +24912,6 @@
               "Dr9HuKAOXDWbFqhqXKClc",
               "WkX4ymrNmSg8qaf_IkxGu"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321671,
             "fontSize": 20,
@@ -25516,7 +24951,6 @@
               "Dr9HuKAOXDWbFqhqXKClc",
               "WkX4ymrNmSg8qaf_IkxGu"
             ],
-            "strokeSharpness": "sharp",
             "seed": 405870205,
             "version": 1687,
             "versionNonce": 561258962,
@@ -25576,7 +25010,6 @@
               "Dr9HuKAOXDWbFqhqXKClc",
               "WkX4ymrNmSg8qaf_IkxGu"
             ],
-            "strokeSharpness": "sharp",
             "seed": 2100649661,
             "version": 1105,
             "versionNonce": 2025135182,
@@ -25636,7 +25069,6 @@
               "Dr9HuKAOXDWbFqhqXKClc",
               "WkX4ymrNmSg8qaf_IkxGu"
             ],
-            "strokeSharpness": "sharp",
             "seed": 1472975101,
             "version": 1109,
             "versionNonce": 1844713362,
@@ -25707,7 +25139,6 @@
               "Cod8ijw36GS0eVXVdkutr",
               "n_X4IaC-EeB_LI-e7tnpl"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321671,
             "index": "a0",
@@ -25739,7 +25170,6 @@
               "Cod8ijw36GS0eVXVdkutr",
               "n_X4IaC-EeB_LI-e7tnpl"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321671,
             "index": "a1",
@@ -25771,7 +25201,6 @@
               "Cod8ijw36GS0eVXVdkutr",
               "n_X4IaC-EeB_LI-e7tnpl"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321671,
             "fontSize": 20,
@@ -25814,7 +25243,6 @@
               "Cod8ijw36GS0eVXVdkutr",
               "n_X4IaC-EeB_LI-e7tnpl"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321671,
             "fontSize": 36,
@@ -25856,7 +25284,6 @@
             "groupIds": [
               "n_X4IaC-EeB_LI-e7tnpl"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321671,
             "fontSize": 20,
@@ -25906,7 +25333,6 @@
             "groupIds": [
               "2XN8JBMHCv1FvvOVWyXuj"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321671,
             "fontSize": 20,
@@ -25950,7 +25376,6 @@
               "3Mx51lCx5MtHPRP5H4wtk",
               "2XN8JBMHCv1FvvOVWyXuj"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321671,
             "index": "a1",
@@ -25983,7 +25408,6 @@
               "3Mx51lCx5MtHPRP5H4wtk",
               "2XN8JBMHCv1FvvOVWyXuj"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321671,
             "index": "a2",
@@ -26016,7 +25440,6 @@
               "3Mx51lCx5MtHPRP5H4wtk",
               "2XN8JBMHCv1FvvOVWyXuj"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321671,
             "fontSize": 20,
@@ -26056,7 +25479,6 @@
               "3Mx51lCx5MtHPRP5H4wtk",
               "2XN8JBMHCv1FvvOVWyXuj"
             ],
-            "strokeSharpness": "round",
             "seed": 563917949,
             "version": 842,
             "versionNonce": 601431122,
@@ -26150,7 +25572,6 @@
               "3Mx51lCx5MtHPRP5H4wtk",
               "2XN8JBMHCv1FvvOVWyXuj"
             ],
-            "strokeSharpness": "round",
             "seed": 1068385523,
             "version": 855,
             "versionNonce": 1997736398,
@@ -26290,7 +25711,6 @@
             "groupIds": [
               "S-W8TWgh7PO1r-4N1yEUb"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321672,
             "fontSize": 20,
@@ -26334,7 +25754,6 @@
               "SkGUGmkgzWqaqaasXsUcN",
               "S-W8TWgh7PO1r-4N1yEUb"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321672,
             "index": "a1",
@@ -26367,7 +25786,6 @@
               "SkGUGmkgzWqaqaasXsUcN",
               "S-W8TWgh7PO1r-4N1yEUb"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321672,
             "index": "a2",
@@ -26400,7 +25818,6 @@
               "SkGUGmkgzWqaqaasXsUcN",
               "S-W8TWgh7PO1r-4N1yEUb"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321672,
             "fontSize": 20,
@@ -26440,7 +25857,6 @@
               "SkGUGmkgzWqaqaasXsUcN",
               "S-W8TWgh7PO1r-4N1yEUb"
             ],
-            "strokeSharpness": "round",
             "seed": 1617961853,
             "version": 708,
             "versionNonce": 1603659154,
@@ -26570,7 +25986,6 @@
               "SkGUGmkgzWqaqaasXsUcN",
               "S-W8TWgh7PO1r-4N1yEUb"
             ],
-            "strokeSharpness": "round",
             "seed": 549994557,
             "version": 585,
             "versionNonce": 2035446926,
@@ -26644,7 +26059,6 @@
               "SkGUGmkgzWqaqaasXsUcN",
               "S-W8TWgh7PO1r-4N1yEUb"
             ],
-            "strokeSharpness": "round",
             "seed": 1843990035,
             "version": 853,
             "versionNonce": 1386701650,
@@ -26828,7 +26242,6 @@
             "groupIds": [
               "TOxA4bifob19e9te_DDOk"
             ],
-            "strokeSharpness": "sharp",
             "seed": 226419315,
             "version": 1400,
             "versionNonce": 410038990,
@@ -26875,7 +26288,6 @@
               "yUPB2G7PnMZEj-4o5PqeO",
               "TOxA4bifob19e9te_DDOk"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321672,
             "index": "a1",
@@ -26907,7 +26319,6 @@
               "yUPB2G7PnMZEj-4o5PqeO",
               "TOxA4bifob19e9te_DDOk"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321672,
             "index": "a2",
@@ -26939,7 +26350,6 @@
               "yUPB2G7PnMZEj-4o5PqeO",
               "TOxA4bifob19e9te_DDOk"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321672,
             "fontSize": 20,
@@ -26978,7 +26388,6 @@
               "iGkUb2KPLsU-7orCY48AB",
               "TOxA4bifob19e9te_DDOk"
             ],
-            "strokeSharpness": "sharp",
             "seed": 1633843805,
             "version": 910,
             "versionNonce": 1216403278,
@@ -27057,7 +26466,6 @@
               "iGkUb2KPLsU-7orCY48AB",
               "TOxA4bifob19e9te_DDOk"
             ],
-            "strokeSharpness": "sharp",
             "seed": 327924595,
             "version": 621,
             "versionNonce": 504728722,
@@ -27120,7 +26528,6 @@
               "iGkUb2KPLsU-7orCY48AB",
               "TOxA4bifob19e9te_DDOk"
             ],
-            "strokeSharpness": "sharp",
             "seed": 1500234515,
             "version": 629,
             "versionNonce": 558153102,
@@ -27195,7 +26602,6 @@
               "iGkUb2KPLsU-7orCY48AB",
               "TOxA4bifob19e9te_DDOk"
             ],
-            "strokeSharpness": "sharp",
             "seed": 1770721171,
             "version": 598,
             "versionNonce": 278538834,
@@ -27258,7 +26664,6 @@
               "iGkUb2KPLsU-7orCY48AB",
               "TOxA4bifob19e9te_DDOk"
             ],
-            "strokeSharpness": "sharp",
             "seed": 1974805011,
             "version": 742,
             "versionNonce": 2100419534,
@@ -27349,7 +26754,6 @@
               "iGkUb2KPLsU-7orCY48AB",
               "TOxA4bifob19e9te_DDOk"
             ],
-            "strokeSharpness": "sharp",
             "seed": 441179283,
             "version": 648,
             "versionNonce": 205852690,
@@ -27424,7 +26828,6 @@
               "HfM4feYa6U8XawLJvU09k",
               "CMsnkZrBrMYGpmTg09MOB"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321672,
             "index": "a0",
@@ -27456,7 +26859,6 @@
               "HfM4feYa6U8XawLJvU09k",
               "CMsnkZrBrMYGpmTg09MOB"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321672,
             "index": "a1",
@@ -27488,7 +26890,6 @@
               "HfM4feYa6U8XawLJvU09k",
               "CMsnkZrBrMYGpmTg09MOB"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321672,
             "fontSize": 16,
@@ -27531,7 +26932,6 @@
               "HfM4feYa6U8XawLJvU09k",
               "CMsnkZrBrMYGpmTg09MOB"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321672,
             "fontSize": 36,
@@ -27573,7 +26973,6 @@
             "groupIds": [
               "CMsnkZrBrMYGpmTg09MOB"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321672,
             "fontSize": 20,
@@ -27623,7 +27022,6 @@
             "groupIds": [
               "tp42JgqMKTj8gc2vW7yR8"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321672,
             "fontSize": 20,
@@ -27667,7 +27065,6 @@
               "BrJCIUFsKEioCy3qabovF",
               "tp42JgqMKTj8gc2vW7yR8"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321672,
             "index": "a1",
@@ -27700,7 +27097,6 @@
               "BrJCIUFsKEioCy3qabovF",
               "tp42JgqMKTj8gc2vW7yR8"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321672,
             "index": "a2",
@@ -27733,7 +27129,6 @@
               "BrJCIUFsKEioCy3qabovF",
               "tp42JgqMKTj8gc2vW7yR8"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321672,
             "fontSize": 20,
@@ -27777,7 +27172,6 @@
               "BrJCIUFsKEioCy3qabovF",
               "tp42JgqMKTj8gc2vW7yR8"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321672,
             "index": "a4",
@@ -27810,7 +27204,6 @@
               "BrJCIUFsKEioCy3qabovF",
               "tp42JgqMKTj8gc2vW7yR8"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321672,
             "index": "a5",
@@ -27843,7 +27236,6 @@
               "BrJCIUFsKEioCy3qabovF",
               "tp42JgqMKTj8gc2vW7yR8"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321672,
             "index": "a6",
@@ -27872,7 +27264,6 @@
               "BrJCIUFsKEioCy3qabovF",
               "tp42JgqMKTj8gc2vW7yR8"
             ],
-            "strokeSharpness": "sharp",
             "seed": 1941504755,
             "version": 587,
             "versionNonce": 396611470,
@@ -27916,7 +27307,6 @@
               "U-sZlSRW5Cd6yS1guOoz3",
               "wPyleskOF8m5mun8vrBha"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321672,
             "index": "a0",
@@ -27948,7 +27338,6 @@
               "U-sZlSRW5Cd6yS1guOoz3",
               "wPyleskOF8m5mun8vrBha"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321672,
             "index": "a1",
@@ -27980,7 +27369,6 @@
               "U-sZlSRW5Cd6yS1guOoz3",
               "wPyleskOF8m5mun8vrBha"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321672,
             "fontSize": 20,
@@ -28020,7 +27408,6 @@
               "U-sZlSRW5Cd6yS1guOoz3",
               "wPyleskOF8m5mun8vrBha"
             ],
-            "strokeSharpness": "sharp",
             "seed": 785567901,
             "version": 1228,
             "versionNonce": 94618638,
@@ -28080,7 +27467,6 @@
               "U-sZlSRW5Cd6yS1guOoz3",
               "wPyleskOF8m5mun8vrBha"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321672,
             "startBinding": null,
@@ -28136,7 +27522,6 @@
               "U-sZlSRW5Cd6yS1guOoz3",
               "wPyleskOF8m5mun8vrBha"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321672,
             "startBinding": null,
@@ -28188,7 +27573,6 @@
               "U-sZlSRW5Cd6yS1guOoz3",
               "wPyleskOF8m5mun8vrBha"
             ],
-            "strokeSharpness": "sharp",
             "seed": 1553634301,
             "version": 1078,
             "versionNonce": 1699709330,
@@ -28238,7 +27622,6 @@
             "groupIds": [
               "wPyleskOF8m5mun8vrBha"
             ],
-            "strokeSharpness": "sharp",
             "seed": 1380029043,
             "version": 443,
             "versionNonce": 2056296590,
@@ -28293,7 +27676,6 @@
               "0B04gE-BXA2HQHYx9nMb3",
               "QWRf7zlulXxuganj6vZrZ"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321673,
             "index": "a0",
@@ -28325,7 +27707,6 @@
               "0B04gE-BXA2HQHYx9nMb3",
               "QWRf7zlulXxuganj6vZrZ"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321673,
             "index": "a1",
@@ -28357,7 +27738,6 @@
               "0B04gE-BXA2HQHYx9nMb3",
               "QWRf7zlulXxuganj6vZrZ"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321673,
             "fontSize": 36,
@@ -28400,7 +27780,6 @@
               "0B04gE-BXA2HQHYx9nMb3",
               "QWRf7zlulXxuganj6vZrZ"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321673,
             "fontSize": 20,
@@ -28438,7 +27817,6 @@
             "groupIds": [
               "QWRf7zlulXxuganj6vZrZ"
             ],
-            "strokeSharpness": "sharp",
             "seed": 831756125,
             "version": 875,
             "versionNonce": 1278169810,
@@ -28488,7 +27866,6 @@
             "groupIds": [
               "RwPyB5qZuL6Pls3h5Z6HA"
             ],
-            "strokeSharpness": "sharp",
             "seed": 1874012413,
             "version": 816,
             "versionNonce": 1329691470,
@@ -28535,7 +27912,6 @@
               "-VlvpbkT7DhekIkKMGTCr",
               "RwPyB5qZuL6Pls3h5Z6HA"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321673,
             "index": "a1",
@@ -28567,7 +27943,6 @@
               "-VlvpbkT7DhekIkKMGTCr",
               "RwPyB5qZuL6Pls3h5Z6HA"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321673,
             "index": "a2",
@@ -28599,7 +27974,6 @@
               "-VlvpbkT7DhekIkKMGTCr",
               "RwPyB5qZuL6Pls3h5Z6HA"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321673,
             "fontSize": 20,
@@ -28638,7 +28012,6 @@
               "-VlvpbkT7DhekIkKMGTCr",
               "RwPyB5qZuL6Pls3h5Z6HA"
             ],
-            "strokeSharpness": "sharp",
             "seed": 1977928125,
             "version": 877,
             "versionNonce": 1058635726,
@@ -28688,7 +28061,6 @@
             "groupIds": [
               "MifRr-GqkWrftRFn3fSTu"
             ],
-            "strokeSharpness": "sharp",
             "seed": 1205912595,
             "version": 923,
             "versionNonce": 2031725586,
@@ -28735,7 +28107,6 @@
               "1_ZYZvi1ianXfNSRhveSo",
               "MifRr-GqkWrftRFn3fSTu"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321673,
             "index": "a1",
@@ -28767,7 +28138,6 @@
               "1_ZYZvi1ianXfNSRhveSo",
               "MifRr-GqkWrftRFn3fSTu"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321673,
             "index": "a2",
@@ -28799,7 +28169,6 @@
               "1_ZYZvi1ianXfNSRhveSo",
               "MifRr-GqkWrftRFn3fSTu"
             ],
-            "strokeSharpness": "sharp",
             "boundElements": [],
             "updated": 1744839321673,
             "fontSize": 20,
@@ -28838,7 +28207,6 @@
               "1_ZYZvi1ianXfNSRhveSo",
               "MifRr-GqkWrftRFn3fSTu"
             ],
-            "strokeSharpness": "sharp",
             "seed": 520296221,
             "version": 955,
             "versionNonce": 359092114,
@@ -28887,12 +28255,10 @@
             "groupIds": [
               "ejeXvs6Hv9ZnuciC17rlV"
             ],
-            "strokeSharpness": "sharp",
             "seed": 2104065271,
             "version": 158,
             "versionNonce": 514108434,
             "isDeleted": false,
-            "boundElementIds": null,
             "index": "a0",
             "frameId": null,
             "roundness": null,
@@ -28919,12 +28285,10 @@
             "groupIds": [
               "ejeXvs6Hv9ZnuciC17rlV"
             ],
-            "strokeSharpness": "round",
             "seed": 660138585,
             "version": 97,
             "versionNonce": 207181326,
             "isDeleted": false,
-            "boundElementIds": null,
             "points": [
               [
                 0,
@@ -28979,8 +28343,6 @@
             "groupIds": [
               "cHodQfHiEnlTiq2zgRiwN"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "index": "a0",
             "frameId": null,
             "roundness": {
@@ -29013,8 +28375,6 @@
             "groupIds": [
               "cHodQfHiEnlTiq2zgRiwN"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "lastCommittedPoint": null,
@@ -29067,8 +28427,6 @@
             "height": 89.0870361328125,
             "seed": 1583881561,
             "groupIds": [],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "index": "a0",
             "frameId": null,
             "roundness": {
@@ -29106,8 +28464,6 @@
             "height": 89.0870361328125,
             "seed": 125776665,
             "groupIds": [],
-            "strokeSharpness": "sharp",
-            "boundElementIds": [],
             "index": "a0",
             "frameId": null,
             "roundness": null,
@@ -29141,12 +28497,10 @@
             "groupIds": [
               "Xl7k4t_34YEL5HrFkloze"
             ],
-            "strokeSharpness": "round",
             "seed": 1941949335,
             "version": 55,
             "versionNonce": 1277594962,
             "isDeleted": false,
-            "boundElementIds": null,
             "points": [
               [
                 0,
@@ -29190,12 +28544,10 @@
             "groupIds": [
               "Xl7k4t_34YEL5HrFkloze"
             ],
-            "strokeSharpness": "round",
             "seed": 342506903,
             "version": 56,
             "versionNonce": 1498491086,
             "isDeleted": false,
-            "boundElementIds": null,
             "points": [
               [
                 0,
@@ -29239,12 +28591,10 @@
             "groupIds": [
               "Xl7k4t_34YEL5HrFkloze"
             ],
-            "strokeSharpness": "round",
             "seed": 1365598105,
             "version": 299,
             "versionNonce": 2118980370,
             "isDeleted": false,
-            "boundElementIds": null,
             "points": [
               [
                 0,
@@ -30401,12 +29751,10 @@
             "groupIds": [
               "zNOsVMpCB8UiK62LmmF4a"
             ],
-            "strokeSharpness": "round",
             "seed": 273830425,
             "version": 474,
             "versionNonce": 655286030,
             "isDeleted": false,
-            "boundElementIds": null,
             "points": [
               [
                 0,
@@ -30454,14 +29802,10 @@
             "groupIds": [
               "zNOsVMpCB8UiK62LmmF4a"
             ],
-            "strokeSharpness": "sharp",
             "seed": 174293753,
             "version": 302,
             "versionNonce": 1025302738,
             "isDeleted": false,
-            "boundElementIds": [
-              "mEO4UQIFQrxfFZk2uX3MP"
-            ],
             "index": "a1",
             "frameId": null,
             "roundness": null,
@@ -30504,8 +29848,6 @@
             "groupIds": [
               "xLC1Qwkgez6cHjgvr9hBN"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": {
               "elementId": "ofSvxwfYmq_ijeFo0WfhZ",
@@ -30557,10 +29899,6 @@
             "groupIds": [
               "xLC1Qwkgez6cHjgvr9hBN"
             ],
-            "strokeSharpness": "sharp",
-            "boundElementIds": [
-              "6KyVdhqlEAKJJN1McpacT"
-            ],
             "index": "a1",
             "frameId": null,
             "roundness": null,
@@ -30592,12 +29930,10 @@
             "groupIds": [
               "xLC1Qwkgez6cHjgvr9hBN"
             ],
-            "strokeSharpness": "round",
             "seed": 1497546297,
             "version": 548,
             "versionNonce": 707851150,
             "isDeleted": false,
-            "boundElementIds": null,
             "points": [
               [
                 0,
@@ -32758,12 +32094,10 @@
             "groupIds": [
               "6kXpJe0xEMMWLDmOoVMPv"
             ],
-            "strokeSharpness": "round",
             "seed": 1082776313,
             "version": 95,
             "versionNonce": 70538322,
             "isDeleted": false,
-            "boundElementIds": null,
             "points": [
               [
                 0,
@@ -32807,12 +32141,10 @@
             "groupIds": [
               "6kXpJe0xEMMWLDmOoVMPv"
             ],
-            "strokeSharpness": "round",
             "seed": 670298553,
             "version": 81,
             "versionNonce": 1193759182,
             "isDeleted": false,
-            "boundElementIds": null,
             "points": [
               [
                 0,
@@ -32856,12 +32188,10 @@
             "groupIds": [
               "6kXpJe0xEMMWLDmOoVMPv"
             ],
-            "strokeSharpness": "round",
             "seed": 342478265,
             "version": 66,
             "versionNonce": 520747538,
             "isDeleted": false,
-            "boundElementIds": null,
             "points": [
               [
                 0,
@@ -32905,12 +32235,10 @@
             "groupIds": [
               "6kXpJe0xEMMWLDmOoVMPv"
             ],
-            "strokeSharpness": "round",
             "seed": 591114583,
             "version": 78,
             "versionNonce": 708306958,
             "isDeleted": false,
-            "boundElementIds": null,
             "points": [
               [
                 0,
@@ -32961,12 +32289,10 @@
             "groupIds": [
               "xrweJgdFfv1V1TQ_rhvQr"
             ],
-            "strokeSharpness": "round",
             "seed": 1609314777,
             "version": 86,
             "versionNonce": 598009810,
             "isDeleted": false,
-            "boundElementIds": null,
             "points": [
               [
                 0,
@@ -33010,12 +32336,10 @@
             "groupIds": [
               "xrweJgdFfv1V1TQ_rhvQr"
             ],
-            "strokeSharpness": "round",
             "seed": 805944855,
             "version": 27,
             "versionNonce": 56342094,
             "isDeleted": false,
-            "boundElementIds": null,
             "points": [
               [
                 0,
@@ -33066,12 +32390,10 @@
             "groupIds": [
               "q9mPGl_7FGnwIxPCkRkyt"
             ],
-            "strokeSharpness": "round",
             "seed": 1936720087,
             "version": 122,
             "versionNonce": 974921106,
             "isDeleted": false,
-            "boundElementIds": null,
             "points": [
               [
                 0,
@@ -33115,12 +32437,10 @@
             "groupIds": [
               "q9mPGl_7FGnwIxPCkRkyt"
             ],
-            "strokeSharpness": "round",
             "seed": 1201695801,
             "version": 39,
             "versionNonce": 460045454,
             "isDeleted": false,
-            "boundElementIds": null,
             "points": [
               [
                 0,
@@ -33168,8 +32488,6 @@
             "groupIds": [
               "q9mPGl_7FGnwIxPCkRkyt"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "lastCommittedPoint": null,
@@ -33213,12 +32531,10 @@
             "groupIds": [
               "q9mPGl_7FGnwIxPCkRkyt"
             ],
-            "strokeSharpness": "round",
             "seed": 51492343,
             "version": 46,
             "versionNonce": 941685454,
             "isDeleted": false,
-            "boundElementIds": null,
             "points": [
               [
                 0,
@@ -33262,12 +32578,10 @@
             "groupIds": [
               "q9mPGl_7FGnwIxPCkRkyt"
             ],
-            "strokeSharpness": "round",
             "seed": 969421943,
             "version": 30,
             "versionNonce": 312172818,
             "isDeleted": false,
-            "boundElementIds": null,
             "points": [
               [
                 0,
@@ -33311,12 +32625,10 @@
             "groupIds": [
               "q9mPGl_7FGnwIxPCkRkyt"
             ],
-            "strokeSharpness": "round",
             "seed": 1998578583,
             "version": 32,
             "versionNonce": 1339662,
             "isDeleted": false,
-            "boundElementIds": null,
             "points": [
               [
                 0,
@@ -33360,12 +32672,10 @@
             "groupIds": [
               "q9mPGl_7FGnwIxPCkRkyt"
             ],
-            "strokeSharpness": "round",
             "seed": 318997689,
             "version": 54,
             "versionNonce": 242314962,
             "isDeleted": false,
-            "boundElementIds": null,
             "points": [
               [
                 0,
@@ -33420,8 +32730,6 @@
             "groupIds": [
               "4Wch6Syw4sEN6a9i35_zc"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "lastCommittedPoint": null,
@@ -33469,8 +32777,6 @@
             "groupIds": [
               "4Wch6Syw4sEN6a9i35_zc"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "lastCommittedPoint": null,
@@ -33518,8 +32824,6 @@
             "groupIds": [
               "4Wch6Syw4sEN6a9i35_zc"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "lastCommittedPoint": null,
@@ -33567,8 +32871,6 @@
             "groupIds": [
               "4Wch6Syw4sEN6a9i35_zc"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "lastCommittedPoint": null,
@@ -33616,8 +32918,6 @@
             "groupIds": [
               "4Wch6Syw4sEN6a9i35_zc"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "lastCommittedPoint": null,
@@ -33661,12 +32961,10 @@
             "groupIds": [
               "4Wch6Syw4sEN6a9i35_zc"
             ],
-            "strokeSharpness": "sharp",
             "seed": 639901463,
             "version": 74,
             "versionNonce": 180439058,
             "isDeleted": false,
-            "boundElementIds": null,
             "index": "a5",
             "frameId": null,
             "roundness": null,
@@ -33697,8 +32995,6 @@
             "groupIds": [
               "4Wch6Syw4sEN6a9i35_zc"
             ],
-            "strokeSharpness": "sharp",
-            "boundElementIds": [],
             "index": "a6",
             "frameId": null,
             "roundness": null,
@@ -33736,8 +33032,6 @@
             "groupIds": [
               "IcDUECoGESp7l1jFgL0dE"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "lastCommittedPoint": null,
@@ -33785,8 +33079,6 @@
             "groupIds": [
               "IcDUECoGESp7l1jFgL0dE"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "lastCommittedPoint": null,
@@ -33834,8 +33126,6 @@
             "groupIds": [
               "IcDUECoGESp7l1jFgL0dE"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "lastCommittedPoint": null,
@@ -33890,8 +33180,6 @@
             "groupIds": [
               "IQ0IODYiTiWpkm8ncblcl"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "lastCommittedPoint": null,
@@ -33939,8 +33227,6 @@
             "groupIds": [
               "IQ0IODYiTiWpkm8ncblcl"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "lastCommittedPoint": null,
@@ -33988,8 +33274,6 @@
             "groupIds": [
               "IQ0IODYiTiWpkm8ncblcl"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "lastCommittedPoint": null,
@@ -34037,8 +33321,6 @@
             "groupIds": [
               "IQ0IODYiTiWpkm8ncblcl"
             ],
-            "strokeSharpness": "sharp",
-            "boundElementIds": [],
             "index": "a3",
             "frameId": null,
             "roundness": null,
@@ -34069,8 +33351,6 @@
             "groupIds": [
               "IQ0IODYiTiWpkm8ncblcl"
             ],
-            "strokeSharpness": "sharp",
-            "boundElementIds": [],
             "index": "a4",
             "frameId": null,
             "roundness": null,
@@ -34102,12 +33382,10 @@
             "roughness": 1,
             "opacity": 100,
             "groupIds": [],
-            "strokeSharpness": "round",
             "seed": 197211289,
             "version": 20,
             "versionNonce": 2010643666,
             "isDeleted": false,
-            "boundElementIds": null,
             "text": "0 .. 1",
             "fontSize": 16,
             "fontFamily": 1,
@@ -34156,8 +33434,6 @@
             "height": 20,
             "seed": 37751481,
             "groupIds": [],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "fontSize": 16,
             "fontFamily": 1,
             "text": "1 .. n",
@@ -34206,8 +33482,6 @@
             "height": 20,
             "seed": 2014246359,
             "groupIds": [],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "fontSize": 16,
             "fontFamily": 1,
             "text": "n .. m",
@@ -34252,12 +33526,10 @@
             "roughness": 1,
             "opacity": 100,
             "groupIds": [],
-            "strokeSharpness": "round",
             "seed": 1805868855,
             "version": 209,
             "versionNonce": 1594955662,
             "isDeleted": false,
-            "boundElementIds": null,
             "index": "a0",
             "frameId": null,
             "roundness": {
@@ -34293,12 +33565,10 @@
             "groupIds": [
               "342_Hs4oeI4Yml_dd_DuZ"
             ],
-            "strokeSharpness": "round",
             "seed": 1584047159,
             "version": 98,
             "versionNonce": 668495954,
             "isDeleted": false,
-            "boundElementIds": null,
             "index": "a0",
             "frameId": null,
             "roundness": {
@@ -34327,12 +33597,10 @@
             "groupIds": [
               "342_Hs4oeI4Yml_dd_DuZ"
             ],
-            "strokeSharpness": "round",
             "seed": 1859636185,
             "version": 146,
             "versionNonce": 878900686,
             "isDeleted": false,
-            "boundElementIds": null,
             "points": [
               [
                 0,
@@ -34376,12 +33644,10 @@
             "groupIds": [
               "342_Hs4oeI4Yml_dd_DuZ"
             ],
-            "strokeSharpness": "round",
             "seed": 922462841,
             "version": 177,
             "versionNonce": 1875547666,
             "isDeleted": false,
-            "boundElementIds": null,
             "points": [
               [
                 0,
@@ -34425,12 +33691,10 @@
             "groupIds": [
               "342_Hs4oeI4Yml_dd_DuZ"
             ],
-            "strokeSharpness": "round",
             "seed": 1234519991,
             "version": 158,
             "versionNonce": 945753102,
             "isDeleted": false,
-            "boundElementIds": null,
             "points": [
               [
                 0,
@@ -34474,12 +33738,10 @@
             "groupIds": [
               "342_Hs4oeI4Yml_dd_DuZ"
             ],
-            "strokeSharpness": "round",
             "seed": 1843267353,
             "version": 182,
             "versionNonce": 1240597458,
             "isDeleted": false,
-            "boundElementIds": null,
             "points": [
               [
                 0,
@@ -34528,12 +33790,10 @@
             "roughness": 1,
             "opacity": 100,
             "groupIds": [],
-            "strokeSharpness": "round",
             "seed": 1758738455,
             "version": 292,
             "versionNonce": 150886990,
             "isDeleted": false,
-            "boundElementIds": null,
             "points": [
               [
                 0,
@@ -34586,8 +33846,6 @@
             "height": 245.4173583984375,
             "seed": 862851545,
             "groupIds": [],
-            "strokeSharpness": "sharp",
-            "boundElementIds": [],
             "index": "a0",
             "frameId": null,
             "roundness": null,
@@ -34616,8 +33874,6 @@
             "height": 29.10211181640625,
             "seed": 222321911,
             "groupIds": [],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "lastCommittedPoint": null,
@@ -34663,8 +33919,6 @@
             "height": 35.6409912109375,
             "seed": 1563941591,
             "groupIds": [],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "lastCommittedPoint": null,
@@ -34710,8 +33964,6 @@
             "height": 44.5531005859375,
             "seed": 1781984793,
             "groupIds": [],
-            "strokeSharpness": "sharp",
-            "boundElementIds": [],
             "index": "a3",
             "frameId": null,
             "roundness": null,
@@ -34747,8 +33999,6 @@
             "height": 245.4173583984375,
             "seed": 144677369,
             "groupIds": [],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "index": "a0",
             "frameId": null,
             "roundness": {
@@ -34779,8 +34029,6 @@
             "height": 30.34539794921875,
             "seed": 1107974041,
             "groupIds": [],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "lastCommittedPoint": null,
@@ -34826,8 +34074,6 @@
             "height": 35.6409912109375,
             "seed": 1290720631,
             "groupIds": [],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "lastCommittedPoint": null,
@@ -34873,8 +34119,6 @@
             "height": 44.5531005859375,
             "seed": 1821190233,
             "groupIds": [],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "index": "a3",
             "frameId": null,
             "roundness": {
@@ -34900,7 +34144,7 @@
   "mdCSS": "",
   "scriptEngineSettings": {},
   "defaultTrayMode": true,
-  "previousRelease": "2.9.1",
+  "previousRelease": "2.11.1",
   "showReleaseNotes": true,
   "showNewVersionNotification": true,
   "latexBoilerplate": "\\color{blue}",
@@ -35255,6 +34499,7 @@
   "markdownNodeOneClickEditing": false,
   "canvasImmersiveEmbed": true,
   "startupScriptPath": "",
+  "aiEnabled": true,
   "openAIAPIToken": "",
   "openAIDefaultTextModel": "gpt-3.5-turbo-1106",
   "openAIDefaultVisionModel": "gpt-4o",

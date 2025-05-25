@@ -130,7 +130,7 @@
   "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha",
   "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-peach",
   "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "ctp-accent-light-mauve",
-  "anuppuccin-theme-settings@@anuppuccin-accent-toggle": true,
+  "anuppuccin-theme-settings@@anuppuccin-accent-toggle": false,
   "anuppuccin-theme-settings@@ctp-custom-base@@dark": "#000000",
   "anuppuccin-theme-settings@@ctp-custom-text@@dark": "#E8E8E8",
   "anuppuccin-theme-settings@@anp-callout-select": "anp-callout-sleek",
@@ -167,5 +167,6 @@
   "anuppuccin-theme-settings@@anp-table-th-highlight": false,
   "anuppuccin-theme-settings@@anp-list-toggle": false,
   "anuppuccin-theme-settings@@anp-codeblock-wrap-preview": "none",
-  "anuppuccin-theme-settings@@anp-codeblock-wrap-hl-preview": "none"
+  "anuppuccin-theme-settings@@anp-codeblock-wrap-hl-preview": "none",
+  "anuppuccin-theme-settings@@anp-pdf-blend-toggle-dark": false
 }

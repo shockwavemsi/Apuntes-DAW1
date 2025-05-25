@@ -65,7 +65,7 @@ Cuando un trabajador(a) realiza un incumplimiento grave y sea culpable.
 El juez da un **fallo o sentencia del juez:**
 - **Improcedente:** Falta de requisitos o no probado.
 	- El empresario(a) tiene un plazo de 5 días para elegir entre 2 opciones:
-		- Readmisión + Salario de Tramitación (desde la Fecha de Despido - Readmisión).
+		- Readmisión + Salario de Tramitación (desde la Fecha de Despido hasta Readmisión).
 		- Extinción + Indemización 33 días / 24 mensualidades.
 	- Si el trabajador es delegado sindical, el trabajador es que elige entre **Readmisión** o **Extinción**
 - **Procedente:** Cumple requisitos y probado

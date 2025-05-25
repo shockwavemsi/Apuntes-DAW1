@@ -32,6 +32,5 @@
     "useInternalPlugins": false
   },
   "Programación": "LiAppWindow",
-  "01 - Bases de datos": "LiAppWindow",
-  "02 - Sistemas Informáticos": "LiAppWindow"
+  "01 - Bases de datos": "LiAppWindow"
 }
