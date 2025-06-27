@@ -3,14 +3,15 @@
   "cssTheme": "AnuPpuccin",
   "accentColor": "",
   "enabledCssSnippets": [
+    "pdf",
     "block-code"
   ],
-  "nativeMenus": false,
-  "textFontFamily": "JetBrains Mono NL",
+  "nativeMenus": true,
+  "textFontFamily": "Roboto,JetBrains Mono NL",
   "showRibbon": false,
   "showViewHeader": false,
   "baseFontSizeAction": false,
-  "baseFontSize": 16,
+  "baseFontSize": 17,
   "interfaceFontFamily": "JetBrains Mono",
-  "monospaceFontFamily": "JetBrains Mono "
+  "monospaceFontFamily": "Cascadia Code"
 }

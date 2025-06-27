@@ -32,5 +32,7 @@
     "useInternalPlugins": false
   },
   "Programación": "LiAppWindow",
-  "01 - Bases de datos": "LiAppWindow"
+  "01 - Bases de datos": "LiBadgeCheck",
+  "02 - Entornos de Desarrollo": "LiBadgeCheck",
+  "03 - Formación Orientada al Trabajo": "LiBadgeCheck"
 }

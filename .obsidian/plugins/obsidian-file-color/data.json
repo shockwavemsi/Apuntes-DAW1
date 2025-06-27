@@ -5,18 +5,36 @@
     {
       "id": "xP8opnFkR-8N1YVe5kVbE",
       "name": "Sistemas",
-      "value": "#00ffd5"
+      "value": "#002aff"
     },
     {
       "id": "4_b8ihcDLjnp92aBbcLSp",
       "name": "Bases de Datos",
-      "value": "#00e1ff"
+      "value": "#00ffd5"
+    },
+    {
+      "id": "Z-fa5o6ej8fxcl1zL9R3O",
+      "name": "Entornos de Desarrollo",
+      "value": "#ffa200"
+    },
+    {
+      "id": "8ejoSMxMPh9GllQQYkVhj",
+      "name": "Formacion",
+      "value": "#00fa32"
     }
   ],
   "fileColors": [
     {
       "path": "01 - Bases de datos",
       "color": "4_b8ihcDLjnp92aBbcLSp"
+    },
+    {
+      "path": "02 - Entornos de Desarrollo",
+      "color": "xP8opnFkR-8N1YVe5kVbE"
+    },
+    {
+      "path": "03 - Formación Orientada al Trabajo",
+      "color": "8ejoSMxMPh9GllQQYkVhj"
     }
   ]
 }

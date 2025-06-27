@@ -3,10 +3,12 @@
   "css-editor",
   "callout-manager",
   "obsidian-style-settings",
-  "obsidian-icon-folder",
   "obsidian-file-color",
   "file-explorer-note-count",
   "ninja-cursor",
   "obsidian-contextual-typography",
+  "obsidian-fullscreen-plugin",
+  "obsidian-focus-mode",
+  "obsidian-icon-folder",
   "code-styler"
 ]
