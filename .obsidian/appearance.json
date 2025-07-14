@@ -1,13 +1,13 @@
 {
   "theme": "obsidian",
-  "cssTheme": "AnuPpuccin",
+  "cssTheme": "Border",
   "accentColor": "",
   "enabledCssSnippets": [
     "pdf",
     "block-code"
   ],
   "nativeMenus": true,
-  "textFontFamily": "Roboto,JetBrains Mono NL",
+  "textFontFamily": "JetBrains Mono,Roboto,JetBrains Mono NL",
   "showRibbon": false,
   "showViewHeader": false,
   "baseFontSizeAction": false,

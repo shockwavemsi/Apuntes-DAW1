@@ -56,8 +56,6 @@
   "Appearance-dark@@background-modifier-border-hover@@dark": "#3f3f3f",
   "Appearance-dark@@background-modifier-border-focus@@dark": "#555555",
   "Appearance-dark@@text-normal@@dark": "#DADADA",
-  "Appearance-dark@@text-muted@@dark": "#BABABA",
-  "Appearance-dark@@text-faint@@dark": "#BABABA",
   "Appearance-dark@@interactive-normal@@dark": "#363636",
   "Appearance-dark@@interactive-hover@@dark": "#3F3F3F",
   "Appearance-dark@@background-activated-tab-header-dark": "#FFFFFF13",
@@ -94,7 +92,7 @@
   "Mobile@@drawer-phone-full-width": false,
   "Plugin@@Projects-bg-color": "Projects-bg-color-default",
   "Components@@colorful-folder": false,
-  "Editor@@bold-color@@dark": "#D9D9D9",
+  "Editor@@bold-color@@dark": "#19B5CC",
   "Editor@@codeblock-style-select": "codeblock-style-one-dark",
   "Components@@file-icon-remove": true,
   "Editor@@h1-size": "1.6em",
@@ -124,7 +122,7 @@
   "Editor@@border-focus-mode": false,
   "Appearance-dark@@background-primary-alt@@dark": "#111111",
   "Appearance-dark@@background-secondary@@dark": "#262626",
-  "Editor@@italic-color@@dark": "#D9D9D9",
+  "Editor@@italic-color@@dark": "#14BF73",
   "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-latte",
   "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha",
   "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-peach",
@@ -169,5 +167,6 @@
   "anuppuccin-theme-settings@@anp-codeblock-wrap-hl-preview": "none",
   "anuppuccin-theme-settings@@anp-pdf-blend-toggle-dark": false,
   "anuppuccin-theme-settings@@anp-bold-custom": "anp-bold-mauve",
-  "anuppuccin-theme-settings@@anp-italic-custom": "anp-italic-peach"
+  "anuppuccin-theme-settings@@anp-italic-custom": "anp-italic-peach",
+  "Appearance-dark@@text-faint@@dark": "#1F8FAE"
 }
