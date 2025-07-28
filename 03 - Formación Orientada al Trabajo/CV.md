@@ -99,7 +99,7 @@ Estos son los datos imprescindibles para el curriculum
 
 **Formación académica**:
 
-- Desarrollo de Aplicaciones Web** **Instituto Tecnológico Superior** **2024 - 2025
+- Desarrollo de Aplicaciones Web **Instituto Tecnológico Superior** **2024 - 2025**
     
 - Título de bachillerato general **CP San Antonio de Jicamarca, Lima** **2020 - 2023**
     
@@ -110,7 +110,7 @@ Estos son los datos imprescindibles para el curriculum
 
 - Curso de JavaScript Avanzado **Academia de Programación** **40 horas** **2023**
     
-- Certificación en SEO** **Organismo de Certificación** **20 horas** **2022**
+- Certificación en SEO **Organismo de Certificación** **20 horas** **2022**
     
 
 ---
@@ -136,3 +136,4 @@ Estos son los datos imprescindibles para el curriculum
 **Datos de interés**:
 
 - Disponibilidad inmediata
+

@@ -1,7 +1,8 @@
 {
   "callouts": {
     "custom": [
-      "blank-container"
+      "blank-container",
+      "tabla"
     ],
     "settings": {
       "example": [
@@ -22,6 +23,21 @@
         {
           "changes": {
             "color": "251, 70, 76"
+          }
+        }
+      ],
+      "help": [
+        {
+          "changes": {
+            "color": "68, 207, 110"
+          }
+        }
+      ],
+      "tabla": [
+        {
+          "changes": {
+            "icon": "lucide-app-window",
+            "color": "166, 189, 197"
           }
         }
       ]

@@ -1,8 +1,8 @@
-### **Ejercicio PL/SQL: Gestión de Clientes y Compras con Descuento**
+# Ejercicio PL/SQL: Gestión de Clientes y Compras con Descuento
 
 Estás desarrollando un sistema de gestión para una tienda y necesitas implementar un procedimiento almacenado que registre la compra de un cliente, aplicando un descuento cuando corresponda.
 
-#### **Requisitos del ejercicio:**
+## Requisitos del ejercicio:
 
 1. **Debe incluir una variable booleana** que indique si la compra ha sido completada con éxito y si se aplicó un descuento.
     
@@ -15,7 +15,7 @@ Estás desarrollando un sistema de gestión para una tienda y necesitas implemen
 5. **Debe realizar una llamada al procedimiento** `registrar_compra` con valores de prueba.
     
 
-#### **Detalles adicionales:**
+## Detalles adicionales:
 
 - La tabla `clientes` tiene las columnas `id_cliente`, `nombre` y `email`.
     
@@ -29,9 +29,9 @@ Estás desarrollando un sistema de gestión para una tienda y necesitas implemen
 
 # Resolución
 
-## **1. Creación de las tablas**
+1. Creación de las tablas
 
-```PLSQL
+```SQL
 CREATE TABLE clientes(
 	id_cliente PRIMARY KEY,
 	nombre VARCHAR2(50) NOT NULL,
@@ -47,9 +47,9 @@ CREATE TABLE compras(
 );
 ```
 
-## **2. Creación del procedimiento almacenado**
+ 2. Creación del procedimiento almacenado
 
-````PLSQL
+````SQL
 CREATE OR REPLACE PROCEDURE registrar_compra(
 	-- Declaración de parametros de entrada
 	r_id_cliente IN NUMBER,

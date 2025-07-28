@@ -51,8 +51,11 @@ La relación nace la clase principal (superclase o clase base) con las clases qu
 > 5. **Método Main :** Aquí es donde se crea un objeto `Perro` y se llama el método `hablar()`.
 
 # Abstracción
+
 La **abstracción** en la Programación Orientada a Objetos es un concepto que nos permite enfocarnos en lo esencial y ocultar los detalles innecesarios.
+
 Por medio de clases y métodos abstractos, aquellos que solo se definen pero no se usan(implementan).
+
 Esto permite enfocarse en "¿que hace?" un objeto , en lugar de de ¿Como lo hace?.
 
 >[!EXAMPLE] EJEMPLO DE ABSTRACCIÓN (Figuras)

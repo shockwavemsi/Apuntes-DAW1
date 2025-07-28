@@ -65,7 +65,7 @@ Nos permite individualizar cada fila del grupo, mediante las funciones de ventan
 >	('Carlos', 'IT', 7000), 
 >	('Sofía', 'IT', 8000);
 >	 
->select 
+>SELECT 
 >		nombre, 
 >		departamento, 
 >		salario, 

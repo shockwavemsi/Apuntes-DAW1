@@ -1,17 +1,16 @@
 {
   "theme": "obsidian",
-  "cssTheme": "Border",
+  "cssTheme": "AnuPpuccin",
   "accentColor": "",
   "enabledCssSnippets": [
-    "pdf",
-    "block-code"
+    "pdf"
   ],
   "nativeMenus": true,
-  "textFontFamily": "JetBrains Mono,Roboto,JetBrains Mono NL",
+  "textFontFamily": "JetBrains Mono",
   "showRibbon": false,
   "showViewHeader": false,
   "baseFontSizeAction": false,
-  "baseFontSize": 17,
+  "baseFontSize": 16,
   "interfaceFontFamily": "JetBrains Mono",
   "monospaceFontFamily": "Cascadia Code"
 }

@@ -43,7 +43,7 @@ Algoritmo para crear un tortilla de patatas.
 
 ---
 
-# Tema 2 Programación y la actividad de la programación
+# Tema 2 Programación y la actividad de la programacion
 
 - La tarea de programar en aplicaciones reales tiene ciertas dificultades.
 - Según su *complejidad a resolver* pueden haber 2 tipos:
@@ -57,7 +57,7 @@ Los programas tiene un ciclo de vida, que se simplifica en 2 etapas.
 ![[Pasted image 20250713191132.png]]
 
 ---
-## Tema 3 Lenguajes y modelos de programación
+# Tema 3 Lenguajes y modelos de programación
 
 - Nuestras instrucciones se **transforman de lenguaje humano a lenguaje maquina** (código binario).
 - Esta claro que los programas escrito en lenguaje maquina son ilegibles.
@@ -80,7 +80,7 @@ Los lenguajes maquina y ensamblador se les conoce como **lenguajes de bajo nivel
 
 ---
 
-## Tema 4 Compiladores e interpretes
+# Tema 4 Compiladores e interpretes
 
 - Para traducir un programa hecho en un lenguaje de alto nivel, tenemos 2 formas:
 	- **Interprete:** Traduce las instrucciones una por una.
